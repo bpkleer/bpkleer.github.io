@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ensino on Apresentação</title>
+    <link>https://bpkleer.de/pt/projects2/</link>
+    <description>Recent content in Ensino on Apresentação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language><atom:link href="https://bpkleer.de/pt/projects2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensino anterior</title>
+      <link>https://bpkleer.de/pt/projects2/lehrveranstaltungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/lehrveranstaltungen/</guid>
+      <description>Abaixo está uma visão geral do ensino anterior que lecionei na Justus-Liebig-universidade em Giessen.
+Summer 2022 Statistik&amp;#43;: Einführung in R leicht gemacht! (Tutorial, BA Social Sciences) Winter 2021/22 Analyse politischer Unterstützung in der quantitativen Forschungspraxis (Seminar, BA) Daten bändigen &amp;amp; visualisieren in R (Workshop, Methodentage Gießen 2021)
+Winter 2020/21 Einführung in die empirische Sozialforschung und die quantitative Datenanalyse mit R (Tutorial, MA) Analyse politischer Unterstützung in der quantitativen Forschungspraxis (Seminar, BA)</description>
+    </item>
+    
+    <item>
+      <title>Statistik&lt;sup&gt;&#43;&lt;/sup&gt;: Facilitar a entrada em R (alemão)</title>
+      <link>https://bpkleer.de/pt/projects2/statsplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/statsplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WBT Estatística para ciências socias (alemão)</title>
+      <link>https://bpkleer.de/pt/projects2/statistics/wbt-stats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/statistics/wbt-stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introdução em SPSS</title>
+      <link>https://bpkleer.de/pt/projects2/stats-with-spss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/stats-with-spss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD no ensino com R (inglês)</title>
+      <link>https://bpkleer.de/pt/projects2/cicdintegration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/cicdintegration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dome &amp; visualize dados com R (Workshop, alemão)</title>
+      <link>https://bpkleer.de/pt/projects2/workshop/workshop-mtg21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/workshop/workshop-mtg21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lernvideos (Vimeo)</title>
+      <link>https://bpkleer.de/pt/projects2/lernvideos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/lernvideos/</guid>
+      <description>Aqui você encontrará links para coleções de vídeos na plataforma Vimeo que criei nos últimos anos. Todos os vídeos são em alemão.
+Vídeos com R (por FU Hagen)
+Vídeos da aula Introdução à Estatística (por JLU Giessen)</description>
+    </item>
+    
+    <item>
+      <title>WBT Template (só para pessoas de JLU)</title>
+      <link>https://bpkleer.de/pt/projects2/wbttemplate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/wbttemplate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JLU xaringantheme (só para pessoas de JLU)</title>
+      <link>https://bpkleer.de/pt/projects2/xaringantheme/xaringanjlu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects2/xaringantheme/xaringanjlu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
