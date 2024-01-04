@@ -1,0 +1,132 @@
+{
+  "S22": {
+    "term": "Sommer 2022",
+    "weight": "100",
+    "course1": "Statistik+: Einführung in R leicht gemacht!",
+    "kind1": "Tutorial",
+    "study1": "BA Social Sciences",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "W21": {
+    "term": "Winter 2021/22",
+    "weight": "101",
+    "course1": "Analyse politischer Unterstützung in der quantitativen Forschungspraxis",
+    "kind1": "Seminar", 
+    "study1": "BA",
+    "course2": "Daten bändigen & visualisieren in R",
+    "kind2": "Workshop",
+    "study2": "Methodentage Gießen 2021"
+  },
+  "W20": {
+    "term": "Winter 2020/21",
+    "weight": "102",
+    "course1": "Einführung in die empirische Sozialforschung und die quantitative Datenanalyse mit R",
+    "kind1": "Tutorial",
+    "study1": "MA",
+    "course2": "Analyse politischer Unterstützung in der quantitativen Forschungspraxis",
+    "kind2": "Seminar",
+    "study2": "BA"
+  },
+  "S20": {
+    "term": "Sommer 2020",
+    "weight": "103",
+    "course1": "Data Analysis with R",
+    "kind1": "Tutorial",
+    "study1": "BA",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "W19": {
+    "term": "Winter 2019/20",
+    "weight": "104",
+    "course1": "Sozialwissenschaftliche Methodengrundlagen und Grundlagen computergestützter Datenanalyse (R)",
+    "kind1": "Tutorial",
+    "study1": "MA",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "S19": {
+    "term": "Sommer 2019",
+    "weight": "105",
+    "course1": "Datenerhebung in der Praxis",
+    "kind1": "Tutorial",
+    "study1": "BA",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "W18": {
+    "term": "Winter 2018/19",
+    "weight": "106",
+    "course1": "Sozialwissenschaftliche Methodengrundlagen",
+    "kind1": "Tutorial",
+    "study1": "MA",
+    "course2": "Computergestützte Datenanalyse mit SPSS",
+    "kind2": "Tutorial",
+    "study2": "BA, Co-Teaching L. Wingerter"
+  },
+  "S18": {
+    "term": "Sommer 2018",
+    "weight": "107",
+    "course1": "Wahl- und Parteiensysteme",
+    "kind1": "Seminar",
+    "study1": "Teacher Studies",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "W17": {
+    "term": "Winter 2017/18",
+    "weight": "108",
+    "course1": "Sozialwissenschaftliche Methodengrundlagen",
+    "kind1": "Tutorial",
+    "study1": "MA",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "S17": {
+    "term": "Sommer 2017",
+    "weight": "109",
+    "course1": "Politische Kultur in Ostmitteleuropa: Theorie und empirische Ergebnisse",
+    "kind1": "Seminar",
+    "study1": "Teacher Studies",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "W16": {
+    "term": "Winter 2016/17",
+    "weight": "110",
+    "course1": "Politikwissenschaftliche Forschungsdesigns",
+    "kind1": "Tutorial (beginner & advanced)",
+    "study1": "MA",
+    "course2": "Einführung in die politische Bildung: Politische Soziologie",
+    "kind2": "Seminar",
+    "study2": "Teacher Studies"
+  },
+  "S16": {
+    "term": "Sommer 2016",
+    "weight": "111",
+    "course1": "Datenanalyse mit SPSS",
+    "kind1": "Tutorial",
+    "study1": "BA",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  },
+  "W15": {
+    "term": "Winter 2015/16",
+    "weight": "112",
+    "course1": "Multi-Level-Modelling mit SPSS",
+    "kind1": "Tutorial",
+    "study1": "MA",
+    "course2": "",
+    "kind2": "",
+    "study2": ""
+  }
+}

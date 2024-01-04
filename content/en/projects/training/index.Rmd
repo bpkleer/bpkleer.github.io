@@ -1,0 +1,23 @@
+---
+title: "Additional training"
+weight: 14
+---
+
+#### Methods training
+- 2023: Gesis Spring Seminar: *Comparative Social Research with Multi-Group SEM*
+- 2021: ECPR Virtual Spring School in Methods and Techniques 2021, KU Leuven: *Introduction to Structural Equation Modelling*
+- 2020: ECPR Virtual Summer School in Methods and Techniques 2020, CEU Budapest: *Quantitative Text Analysis*
+- 2019: 48. Gesis Spring Seminar "Bayesian Modelling in the Social Sciences: *Introduction to Bayesian Models for the Social Sciences*
+- 2018: ECPR Summer School in Methods and Techniques 2018, CEU Budapest: *Applied Multilevel Regression Modelling*
+- 2016: 5. Gesis Summer School in Survey Methodology: *Introduction to Data Analysis Using R*
+
+#### Didactics training
+- 2020: Examination law
+- 2019: Conflict competence for everyday university life (I + II)
+- 2017: Certificate of Competence in Higher Education (14 workshops & 1 teaching project), e.g., *Introduction to peer counseling*, *Leading discussions*, and *Academic advising for non-traditional students*
+
+#### General Management training
+- 2023: Third-party Funding Experts Program 2023
+- 2022: ABC of Grant Writing
+- 2020: SAP Training
+- 2019: Main Features of \textit{Berufungsverfahren}
