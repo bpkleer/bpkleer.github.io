@@ -1,0 +1,56 @@
+{
+  "2023": { 
+    "conference1": "IPSA World Congress",
+    "contribution1": "P",
+    "conference2": "ECPR General Conference",
+    "contribution2": "C, P",
+    "conference3": "",
+    "contribution3": "",
+    "year": "2023"
+  },
+  "2022": {
+    "conference1": "DVPW Arbeitskreis Hochschullehre",
+    "contribution1": "P",
+    "conference2": "DVPW Sektion Politikwissenschaft und Politische Bildung",
+    "contribution2": "P",
+    "conference3": "",
+    "contribution3": "",
+    "year": "2022"
+  },
+  "2021": {
+    "conference1": "Learning schools for democracy? Young People, Politics and Civic Education (VU Brüssel/UL Brüssel)",
+    "contribution1": "P",
+    "conference2": "",
+    "contribution2": "",
+    "conference3": "",
+    "contribution3": "",
+    "year": "2021"
+  },
+  "2019": {
+    "conference1": "ECPR General Conference",
+    "contribution1": "P",
+    "conference2": "Joint International Teaching and Learning Conference (PSA, ECPR, BISA, APSA)",
+    "contribution2": "P",
+    "conference3": "",
+    "contribution3": "",
+    "year": "2019"
+  },
+  "2018": {
+    "conference1": "Tagung der Jungen Osteuropa-ExpertInnen (DGO)",
+    "contribution1": "P",
+    "conference2": "3. Ostasiatische DAAD-Zentrenkonferenz",
+    "contribution2": "P",
+    "conference3": "EUSA Asia Pacific",
+    "contribution3": "P",
+    "year": "2018"
+  },
+  "2017": {
+    "conference1": "2. Ostasiatische DAAD-Zentrenkonferenz",
+    "contribution1": "P",
+    "conference2": "",
+    "contribution2": "",
+    "conference3": "",
+    "contribution3": "",
+    "year": "2017"
+  }
+}

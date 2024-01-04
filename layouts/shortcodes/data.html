@@ -1,0 +1,9 @@
+{{range sort .Site.Data.lehre "weight"}}
+
+<dl>
+  <b> <dt>{{.term}}</dt> </b>
+  <dd>{{.course1}} ({{.kind1}}, <i>{{.study1}}</i>)</dd> 
+  {{ if (eq .course2 "") }} <br> {{ else }} <dd>{{.course2}} ({{.kind2}}, <i>{{.study2}}</i>)</dd><br> {{ end }}
+</dl>
+  
+{{end}}

@@ -1,0 +1,9 @@
+{{range sort .Site.Data.konferenzen "year" "desc"}}
+
+<dl>
+  <b> <dt>{{.year}}</dt> </b>
+  {{ if and (eq .conference3 "") (eq .conference2 "")}} <dd>{{.conference1}}<sup>{{.contribution1}}</sup></dd> {{ else if (eq .conference3 "")}} <dd>{{.conference1}}<sup>{{.contribution1}}</sup>, {{.conference2}}<sup>{{.contribution2}}</sup></dd> {{else}} <dd>{{.conference1}}<sup>{{.contribution1}}</sup>, {{.conference2}}<sup>{{.contribution2}}</sup>, {{.conference3}}<sup>{{.contribution3}}</sup></dd>
+  {{ end }}
+</dl>
+  
+{{end}}

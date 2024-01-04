@@ -1,0 +1,9 @@
+{{range sort .Site.Data.talks "year" "desc"}}
+
+<dl>
+  <b> <dt>{{.year}}</dt> </b>
+  {{ if and (eq .title3 "") (eq .title2 "")}} <dd>{{.title1}} ({{.location1}})</dd> {{ else if (eq .title3 "")}} <dd>{{.title1}} ({{.location1}})</dd> <dd>{{.title2}} ({{.location2}})</dd> {{else}} <dd>{{.title1}} ({{.location1}})</dd> <dd>{{.title2}} ({{.location2}})</dd> <dd>{{.title3}} ({{.location3}})</dd>
+  {{ end }}
+</dl>
+  
+{{end}}
