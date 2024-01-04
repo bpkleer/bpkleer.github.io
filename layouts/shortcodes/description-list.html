@@ -1,1 +1,0 @@
-{{ .Get 0 | replaceRE "<ul>" "<dl>" .Inner | replaceRE "</ul>" "</dl>" | replaceRE "<li>" "<dt>" | replaceRE "(<dt>.*?): " "$1</dt><dd>" | replaceRE "</li>" "</dd>" | markdownify }}
