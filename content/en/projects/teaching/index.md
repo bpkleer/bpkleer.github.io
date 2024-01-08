@@ -5,7 +5,7 @@ weight: 12
 
 As a research assistant at the Chair of Methods in Political Science, I have continuously taught in the Institute's degree programs, focusing on the practical teaching of empirical social research in the BA program in *Social Sciences*.
 
-My interest in education is reflected in my experience training and supervising students (e.g., on final-year projects). My teaching roles have equipped me to **impart knowledge effectively**, prepare and **present complex content effectively**, **guide discussion**, and provide **constructive feedback** to facilitate learning.
+My interest in education is reflected in my experience training and supervising students (e.g., on final-year projects). My teaching roles have equipped me to **impart knowledge successfully**, prepare and **present complex content effectively**, **guide discussions**, and provide **constructive feedback** to facilitate learning.
 
 I have also supervised/mentored students' theses and supported them in the writing process.
 

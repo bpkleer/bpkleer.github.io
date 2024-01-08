@@ -7,7 +7,7 @@ link-citations: false
 suppress-bibliography: true
 --- 
 
-During my academic activities, I have given **international** scientific presentations and publications, as well as public lectures in which I presented scientific content/problems to a wider audience. In particular, I expanded my **interpersonal** and **cultural skills** at conferences and stays abroad.
+During my academic activities, I have given **international** scientific presentations, as well as public lectures in which I presented scientific content/problems to a wider audience. Furthermore, I published part of my work internationaly. In particular, I expanded my **interpersonal** and **cultural skills** at conferences and stays abroad.
 
 At the Chair of Methods in Political Science, I was involved to a large extent in the organization of the professorship and the coordination of student assistants.
 
