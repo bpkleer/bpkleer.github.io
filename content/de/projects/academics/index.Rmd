@@ -24,7 +24,7 @@ An der Professur für Methoden der Politikwissenschaft habe ich in meiner Anstel
 {{% talks %}}
 
 #### Aktuelle Publikationen
-[@Kleer2023c]
+[@Hunklinger2024]
 
 [@Abendschoen2023] 
 
