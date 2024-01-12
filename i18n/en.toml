@@ -13,7 +13,7 @@
 [index_blog_readMore]
     other = "Read more"
 [index_currentTime]
-    other = "My current local time is"
+    other = "My current local time (Recife, Brazil) is"
 [nav_backToSection]
     other = "Back to {{ .Title }}"
 [nav_main]

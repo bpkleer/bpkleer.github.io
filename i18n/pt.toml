@@ -13,7 +13,7 @@
 [index_blog_readMore]
     other = "Leia mais"
 [index_currentTime]
-    other = "Minha hora local atual é"
+    other = "Minha hora local atual (Recife, Brasil) é"
 [nav_backToSection]
     other = "De volta a {{ .Title }}"
 [nav_main]
