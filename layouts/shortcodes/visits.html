@@ -1,9 +1,12 @@
-{{range sort .Site.Data.visits "year" "desc"}}
+{{range sort .Site.Data.visits "weight" "desc"}}
 
 <dl>
-  <b> <dt>{{.year}}</dt> </b>
-  {{ if and (eq .stay3 "") (eq .stay2 "")}} <dd>{{.stay1}}, {{.why1}}, {{.duration1}}</dd> {{ else if (eq .stay3 "")}} <dd>{{.stay1}}, {{.why1}}, {{.duration1}}</dd><dd>{{.stay2}}, {{.why2}}, {{.duration2}}</dd> {{else}} <dd>{{.stay1}}, {{.why1}}, {{.duration1}}</dd><dd>{{.stay2}}, {{.why2}}, {{.duration2}}</dd><dd>{{.stay3}}, {{.why3}}, {{.duration3}}</dd>
+  {{ if (eq .begin .end) }}
+  <b> <dt>{{.begin}}</dt> </b>
+  {{else}}
+  <b> <dt>{{.begin}} - {{.end}}</dt> </b>
   {{ end }}
+  <dd>{{.stay}}, {{.why}}, {{.duration}}</dd>
 </dl>
   
 {{end}}

@@ -1,14 +1,19 @@
 {
-  "2023": { 
-    "stay1": "Universidade Federal de Pernambuco (Recife)",
-    "why1": "Research stay",
-    "duration1": "6 months",
-    "stay2": "Universidad Carlos III de Madrid",
-    "why2": "Research stay",
-    "duration2": "2 weeks",
-    "stay3": "",
-    "why3": "",
-    "duration3": "",
-    "year": "2023"
+  "UFPE": { 
+    "stay": "Universidade Federal de Pernambuco (Recife)",
+    "why": "Research stay",
+    "duration": "6 months",
+    "begin": "10/2023",
+    "end": "03/2024",
+    "weight": "2"
+    
+  },
+  "UC3M": { 
+    "stay": "Universidad Carlos III de Madrid",
+    "why": "Research stay",
+    "duration": "2 weeks",
+    "begin": "06/2023",
+    "end": "06/2023",
+    "weight": "1"
   }
 }
