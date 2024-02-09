@@ -19663,6 +19663,17 @@ readers do not read off random characters that represent icons */
   .modal-background {
     background-color: rgba(0, 0, 0, 0.8); }
   .modal-close {
-    background-color: #579D90; } }
+    background-color: #579D90; }
+  .markdown td, .markdown th {
+    padding: .25rem .5rem;
+    border: 1px solid #e5e5e5;
+    text-align: center;
+    background-color: #878787; }
+  .markdown tbody tr:nth-child(odd) td,
+  .markdown tbody tr:nth-child(odd) th {
+    background-color: #6e6e6e; }
+  .markdown tbody tr:nth-child(even) td,
+  .markdown tbody tr:nth-child(even) th {
+    background-color: #878787; } }
 
 /*# sourceMappingURL=main.css.map */
