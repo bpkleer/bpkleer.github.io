@@ -12,6 +12,7 @@ weight: 14
 - 2016: 5. Gesis Summer School in Survey Methodology: *Introduction to Data Analysis Using R*
 
 #### Didactics training
+- 2024: Intercultural Communication
 - 2020: Examination law
 - 2019: Conflict competence for everyday university life (I + II)
 - 2017: Certificate of Competence in Higher Education (14 workshops & 1 teaching project), e.g., *Introduction to peer counseling*, *Leading discussions*, and *Academic advising for non-traditional students*

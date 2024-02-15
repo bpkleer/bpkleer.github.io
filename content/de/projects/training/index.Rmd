@@ -13,6 +13,7 @@ weight: 14
 - 2016: 5. Gesis Summer School in Survey Methodology: *Introduction to Data Analysis Using R*
 
 #### Didaktik-Fortbildungen
+- 2024: Interkulturelle Kommunikation
 - 2020: Prüfungsrecht
 - 2019: Konfliktkompetenz für den Hochschulalltag (I + II)
 - 2017: Zertifikat Kompetenz für professionelle Hochschullehre (14 Workshops & 1 Lehrprojekt), u.a. *Einführung in die kollegiale Beratung*, *Diskussionen leiten* und *Studienberatung von nicht-traditionellen Studierenden*

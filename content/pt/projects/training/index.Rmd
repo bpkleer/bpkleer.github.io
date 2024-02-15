@@ -12,6 +12,7 @@ weight: 13
 - 2016: 5. Gesis Summer School in Survey Methodology: *Introduction to Data Analysis Using R*
 
 #### Treinamento de Ensino
+- 2024: Comunicação intercultural
 - 2020: Lei de auditoria
 - 2019: Competência em conflitos para a vida universitária cotidiana (I + II)
 - 2017: Certificado de competência para ensino universitário profissional (14 Workshops & 1 projecto de ensino), por exemplo, *Introdução ao aconselhamento entre colegas*, *Liderar discussões* e *Aconselhamento de estudo para alunos não tradicionais*
