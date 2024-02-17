@@ -41,7 +41,8 @@ Eine ausführlichere Übersicht finden Sie in meinen [**akademischen CV**](https
 #### Fördermittel
 |   |   |
 |:---:|---------------------------------|
-|2023   |  Kongressreisen-Stipendium (DAAD), World Congress der International Political Science Association (IPSA, Buenos Aires, Argentinien (Fördersumme: 2,440 Euro) |  
+| 2024 | Kongressreisen-Stipendium (DAAD), European Conference on Gender and Politics, ECPR Standing Group *Gender and Politics* (Gent, Belgium, Fördersumme: 907 Euro) |
+|2023   |  Kongressreisen-Stipendium (DAAD), World Congress der International Political Science Association (IPSA, Buenos Aires, Argentinien; Fördersumme: 2,440 Euro) |  
 | 2021  | Statistik+: Einstieg in R leichtgemacht!, gemeinsam mit Simone Abendschön, QSL-D, Fachbereich 03, Justus-Liebig-Universität Gießen (Fördersumme: 20.754 Euro)  |
 |2020|  Kongressreisen-Stipendium (DAAD), World Congress des International Council of Central Eastern Europe Studies (Concordia University Montréal (Fördersumme: 1.916 Euro; nicht angetreten Covid-19-Pandemie) |   
 | 2018 |Individuelle Studierendenentwicklung fördern: Einführung eines Web-Based- Trainings zur Verbesserung der Methodenkompetenz, gemeinsam mit Simone Abendschön, QSL-D, Fachbereich 03, Justus-Liebig-Universität Gießen (Fördersumme: 23.960 Euro)|
