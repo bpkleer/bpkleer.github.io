@@ -11,7 +11,7 @@ Während meiner akademischen Tätigkeiten habe ich neben **internationalen** Fac
 
 An der Professur für Methoden der Politikwissenschaft habe ich in meiner Anstellung als wissenschaftlicher Mitarbeiter mit Lehre in großem Umfang an der Organisation der Professur sowie der Koordination der studentischen Hilfskräfte mitgewirkt. 
 
-Eine ausführlichere Übersicht finden Sie in meinen [**akademischen CV**](https://bpkleer.github.io/files/kleer-cvs-en.pdf).
+Eine ausführlichere Übersicht finden Sie in meinen [**akademischen CV**](https://bpkleer.github.io/files/kleer-cvs.pdf) ([**EN**](https://bpkleer.github.io/files/kleer-cvs-en.pdf), [**PT**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf)).
 
 #### Auslandsaufenthalte
 {{% visits %}}

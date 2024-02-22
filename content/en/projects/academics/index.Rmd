@@ -11,7 +11,7 @@ During my academic activities, I have given **international** scientific present
 
 At the Chair of Methods in Political Science, I was involved to a large extent in the organization of the professorship and the coordination of student assistants.
 
-You can find a more comprehensive overview in my [**academic CV**](https://bpkleer.github.io/files/kleer-cvs-en.pdf).
+You can find a more comprehensive overview in my [**academic CV**](https://bpkleer.github.io/files/kleer-cvs-en.pdf) ([**PT**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf), [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf)).
 
 #### Stays abroad
 {{% visits %}}

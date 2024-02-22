@@ -11,7 +11,7 @@ Durante minhas atividades acadêmicas, não só dei palestras e publicações **
 
 Como assistente de pesquisa na Cátedra de Métodos em Ciência Política, estive envolvido em grande parte na organização da cátedra e na coordenação dos assistentes de alunos. 
 
-Mais detalhes poderia ser encontrado no meu [**currículo academico**](https://bpkleer.github.io/files/kleer-cvs-en.pdf).
+Mais detalhes poderia ser encontrado no meu [**currículo academico**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf) ([**EN**](https://bpkleer.github.io/files/kleer-cvs-en.pdf), [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf)).
 
 #### Estadia no exterior 
 {{% visits %}}
