@@ -1,0 +1,46 @@
+---
+title: "Research"
+weight: 13
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true
+---
+
+My research interests lie in political socialization and political attitude/support research. Below, you will find an overview of the research projects.
+
+In smaller and more extensive research projects, I developed my skills in **planning** and **organizing projects** and discovering and consolidating my strength in **team collaboration**. In addition, I steadily expanded my skills in the **application** and **evaluation of quantitative data analysis**.
+
+One of my strengths lies in **understanding** large amounts of **information**, a crucial skill in my research endeavors. I specialize in **distilling complex information** into **meaningful insights**, enabling a deeper understanding of the topics under discussion.
+
+#### Political Socialization
+I am particularly concerned with young people, pre-service teachers, and teachers as essential socialization agents in political socialization research. In the case of young people, the focus is on the factors influencing the development of political interest and political media use. In the context of socialization agents, I focus on latent attitudes in the sense of a democratic classroom and the political information skills of student teachers.
+
+I am currently employed in the EU-Horizon project [**G-EPIC**](https://www.g-epic.eu), in which I primarily process knowledge and analyze data to investigate (intersectional) effects on the political interest and political self-efficacy of young people. 
+
+##### Selected publications on this topic:
+[@Kleer2023a]
+
+[@Abendschoen2023]
+
+[@Abendschoen2022a]
+
+[@Kleer2021]
+
+[@Kleer2024c]
+
+[@Kleer2023b]
+
+
+#### Political Attitudes/Support
+With Michael Hunklinger, I deal with the effects on the voting behavior of LGBTIQ\*. In particular, we are investigating how group-specific attitudes impact voting decisions and participation behavior. 
+
+In my doctoral thesis, I dealt intensively with the theoretical conditions of the different levels of political support in the field of political support research in the context of consolidated democracies in Central and Eastern Europe. I examined these possible interactions, taking economic effects into account. 
+
+##### Selected publications on this topic:
+[@Hunklinger2024]
+
+[@Kleer2023] 
+
+[@Kleer2024b]
+

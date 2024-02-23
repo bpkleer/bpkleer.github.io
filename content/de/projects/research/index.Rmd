@@ -1,0 +1,45 @@
+---
+title: "Forschung"
+weight: 13
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true
+---
+
+Meine Forschungsinteressen liegen sowohl in der politischen Sozialisations- als auch in der politischen Einstellungs bzw. Unterstützungsforschung. Unten bekommen Sie einen inhaltlichen Überblick über die Forschungsprojekte.
+
+In kleineren wie größeren Forschungsprojekten konnte ich meine Fähigkeiten der **Planung** und **Organisation von Projekten** ausbauen sowie meine Stärke in der **Teamkollaboration** entdecken und verfestigen. Daneben konnte ich stetig meine Kompetenzen in der **Anwendung** und **Auswertung quantitativer Datenanalyse** erweitern.
+
+Eine meiner Stärken liegt darin, **umfangreiche** Mengen an **Informationen zu verstehen**, eine entscheidende Fähigkeit in meinen Forschungsbemühungen. Ich habe mich darauf spezialisiert, **komplexe Informationen** in **sinnvolle Erkenntnisse zu destillieren** und so ein tieferes Verständnis der behandelten Themen zu ermöglichen.
+
+#### Politische Sozialisation
+Im Bereich der politischen Sozialisationsforschung beschäftige ich mich insbesondere mit Jugendlichen sowie Lehramtsstudierende bzw. Lehrer:innen als wichtige Sozialisationsagenten. Der Fokus bei Jugendlichen liegt in den Einflussfaktoren auf die Herausbildung des politischen Interesses sowie die politische Mediennutzung. Im Kontext von Sozialisationsagenten fokussiere ich insbesondere latente Einstellungen im Sinne eines demokratischen Klassenraums bzw. politische Informationskompetenzen von Lehramtsstudierenden.
+
+Derzeit bin ich innerhalb dieses Themenfeldes im EU-Horizon Projekt [**G-EPIC**](https://www.g-epic.eu) angestellt, in dem ich primär Wissen aufbereite und Daten analysiere, um (intersektionale) Effekte auf das politische Interesse und die politische Selbst-Wirksamkeit von Jugendlichen zu untersuchen. 
+
+##### Ausgewählte Publikationen dazu:
+[@Kleer2023a]
+
+[@Abendschoen2023]
+
+[@Abendschoen2022a]
+
+[@Kleer2021]
+
+[@Kleer2024c]
+
+[@Kleer2023b]
+
+
+#### Politische Einstellungen/Unterstützung
+Gemeinsam mit Michael Hunklinger, beschäftige ich mich mit Effekten auf das Wahlverhalten von LGBTIQ\*. Dabei untersuchen wir insbesondere, inwieweit Gruppen-spezifische Einstellungen Wirkungen auf die Wahlentscheidung bzw. das Partizipationsverhalten haben. 
+
+In meiner Doktorarbeit habe ich mich im Bereich der politischen Unterstützungsforschung intensiv mit den theoretischen Bedingungen der verschiedenen Ebenen politischer Unterstützung im Kontext konsolidierter Demokratien in Ostmitteleuropa auseinandergesetzt und diese möglichen Wechselwirkungen unter der Berücksichtigung ökonomischer Effekte untersucht. 
+
+##### Ausgewählte Publikationen dazu:
+[@Hunklinger2024]
+
+[@Kleer2023]
+
+[@Kleer2024b]
