@@ -1,5 +1,5 @@
 ---
-title: "Teaching Projects"
+title: "Teaching"
 weight: 12
 ---
 
@@ -7,11 +7,9 @@ As a research assistant at the Chair of Methods in Political Science, I have con
 
 My interest in education is reflected in my experience training and supervising students (e.g., on final-year projects). My teaching roles have equipped me to **impart knowledge successfully**, prepare and **present complex content effectively**, **guide discussions**, and provide **constructive feedback** to facilitate learning.
 
-I have also supervised/mentored students' theses and supported them in the writing process.
-
 In teaching, I have always developed courses further and **designed**, **developed**, and **implemented** several **web-based training courses** as larger teaching projects. In these projects, I set the **planning and implementation as project manager** and **supervised** and managed **student assistants**.
 
-In addition, I have created several **learning videos** on statistics and its application in R for the JLU and the FernUniversität Hagen over the last few years.
+In addition, I have created several **learning videos** on statistics and its application in R for the Justus-Liebig-University and the FernUniversität Hagen over the last few years.
 
 In **application-oriented courses**, I have always emphasized integrating **project/collaboration tools** (such as Git) and, for example, enabling **automated checks of code submissions** via Git (see CI project below).
 
@@ -34,4 +32,4 @@ In **application-oriented courses**, I have always emphasized integrating **proj
 #### Taught courses at universities
 Here you find an overview of courses and workshops I have taught so far. Courses were taught in title language.
 
-{{% data %}}
+{{% lehre %}}  

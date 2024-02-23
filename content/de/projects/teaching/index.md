@@ -1,5 +1,5 @@
 ---
-title: "Lehrprojekte"
+title: "Lehre"
 weight: 12
 ---
 
@@ -7,11 +7,9 @@ Während meiner Zeit als wissenschaftlicher Mitarbeiter an der Professur für Me
 
 Mein Interesse für Bildung spiegelt sich in meiner Erfahrung in der Schulung und Betreuung von Studenten (z.B. bei Abschlussarbeiten) wider. Meine Lehrrollen haben mich mit der Fähigkeit ausgestattet, **Wissen effektiv** zu vermitteln, **komplexe Inhalte** aufzubereiten und effektiv zu präsentieren sowie **Diskussionen** anzuleiten und **konstruktives Feedback** zu geben, um das Lernen zu erleichtern.
 
-Ebenso habe ich als Betreuer/Mentor Abschlussarbeiten von Studierenden **betreut** und diese im Schreibprozess **unterstützt**.
-
 In der Lehre habe ich stets Kurse weiterentwickelt und mehrere Web-Based-Trainings als größere **Lehrprojekte konzipiert, entwickelt und umgesetzt**. In diesen Projekten habe ich als **Projektleitung** die Planung und Umsetzung entwickelt sowie kontrolliert und **studentische Hilfskräfte im Projekt geführt**. 
 
-Daneben habe ich für die JLU als auch für die FernUniversität Hagen im Laufe der letzten Jahre mehrere **Lernvideos** rund um Statistik und die Anwendung in R erstellt.
+Daneben habe ich für die Justus-Liebig-Universität Gießen als auch für die FernUniversität Hagen im Laufe der letzten Jahre mehrere **Lernvideos** rund um Statistik und die Anwendung in R erstellt.
 
 In **anwendungsorientierten** Kursen habe ich dabei immer Wert darauf gelegt, **Projekt-/Kollaborationstools** (wie Git) zu integrieren, und zum Beispiel **automatisierte Kontrollen von Code-Abgaben** über Git zu ermöglichen (siehe CI-Projekt unten). 
 
@@ -35,4 +33,4 @@ In **anwendungsorientierten** Kursen habe ich dabei immer Wert darauf gelegt, **
 #### Übersicht bisheriger Kurse
 Hier finden Sie eine Übersicht an Kursen und Workshops, die ich bisher gegeben habe. Die Kurse haben immer in Titelsprache stattgefunden.
 
-{{% data %}}
+{{% lehre %}} 
