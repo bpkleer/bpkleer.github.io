@@ -4,7 +4,7 @@ weight: 14
 ---
 
 
-#### Methodenfortbildungen
+#### Methoden
 - 2023: Gesis Spring Seminar: *Comparative Social Research with Multi-Group SEM*
 - 2021: ECPR Virtual Spring School in Methods and Techniques 2021, KU Leuven: *Introduction to Structural Equation Modelling*
 - 2020: ECPR Virtual Summer School in Methods and Techniques 2020, CEU Budapest: *Quantitative Text Analysis*
@@ -12,7 +12,7 @@ weight: 14
 - 2018: ECPR Summer School in Methods and Techniques 2018, CEU Budapest: *Applied Multilevel Regression Modelling*
 - 2016: 5. Gesis Summer School in Survey Methodology: *Introduction to Data Analysis Using R*
 
-#### Didaktik-Fortbildungen
+#### Didaktik
 - 2024: Interkulturelle Kommunikation
 - 2020: Prüfungsrecht
 - 2019: Konfliktkompetenz für den Hochschulalltag (I + II)
