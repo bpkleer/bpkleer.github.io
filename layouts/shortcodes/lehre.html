@@ -1,0 +1,47 @@
+
+{{ if eq $.Site.LanguageCode "de" }}
+
+{{range sort .Site.Data.lehre "weight"}}
+
+<p>
+    <dl>
+    <b> <dt>{{.term}}</dt> </b>
+    <dd>
+      {{.course1}} ({{.kind1}}, <i>{{.study1}}</i>)
+    </dd> 
+    {{ if (eq .course2 "") }} <p style="margin:0.5em;"></p> {{ else }} <p style="margin:0.35em;"></p> <dd>{{.course2}} ({{.kind2}}, <i>{{.study2}}</i>)</dd> {{ end }}
+    </dl>
+</p>
+{{end}}
+
+{{ else if eq $.Site.LanguageCode "en-us" }}
+
+{{range sort .Site.Data.lehre "weight"}}
+
+<p>
+<dl>
+  <b> <dt>{{.termen}}</dt> </b>
+  <dd>
+    {{if (eq .course1en "")}} {{.course1}} ({{.kind1en}}, <i>{{.study1en}}</i>) {{else}} {{.course1}} [{{.course1en}}] ({{.kind1en}}, <i>{{.study1en}}</i>) {{end}}
+  </dd> 
+  <dd>
+   {{ if (eq .course2 "") }} <p style="margin:0.5em;"></p> {{ else }} <p style="margin:0.35em;"></p> <dd>{{if (eq .course2en "")}} {{.course2}}, <i>{{.study2en}}</i>) {{else}} {{.course2}} [{{.course2en}}] ({{.kind2en}}, <i>{{.study2en}}</i>) {{end}} </dd><p style="margin:0.5em;"></p> {{ end }}
+</dl>
+</p>
+
+{{end}}
+
+{{ else if eq $.Site.LanguageCode "pt" }}
+
+{{range sort .Site.Data.lehre "weight"}}
+
+<p>
+    <dl>
+    <b> <dt>{{.termbr}}</dt> </b>
+    <dd>{{.course1}} [{{.course1br}}] ({{.kind1br}}, <i>{{.study1br}}</i>)</dd> 
+      {{ if (eq .course2 "") }} <p style="margin:0.5em;"></p> {{ else }} <p style="margin:0.35em;"></p> <dd>{{.course2}} [{{.course2br}}] ({{.kind2br}}, <i>{{.study2br}}</i>)</dd><p style="margin:0.5em;"></p> {{ end }}
+    </dl>
+</p>
+{{end}}
+
+{{end}}

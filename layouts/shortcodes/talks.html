@@ -1,9 +1,88 @@
+{{ if eq $.Site.LanguageCode "de" }}
+
 {{range sort .Site.Data.talks "year" "desc"}}
 
 <dl>
   <b> <dt>{{.year}}</dt> </b>
-  {{ if and (eq .title3 "") (eq .title2 "")}} <dd>{{.title1}} ({{.location1}})</dd> {{ else if (eq .title3 "")}} <dd>{{.title1}} ({{.location1}})</dd> <dd>{{.title2}} ({{.location2}})</dd> {{else}} <dd>{{.title1}} ({{.location1}})</dd> <dd>{{.title2}} ({{.location2}})</dd> <dd>{{.title3}} ({{.location3}})</dd>
+  {{ if and (eq .title3 "") (eq .title2 "")}} 
+    <dd>
+      {{.title1}} ({{.location1}})
+    </dd> 
+    <p style="margin:0.5em;"></p> 
+    {{ else if (eq .title3 "")}} 
+      <dd>{{.title1}} ({{.location1}})</dd> 
+      <p style="margin:0.35em;"></p> 
+      <dd>{{.title2}} ({{.location2}})</dd> 
+      <p style="margin:0.5em;"></p> 
+    {{else}} 
+      <dd>{{.title1}} ({{.location1}})</dd> 
+      <p style="margin:0.35em;"></p> 
+      <dd>{{.title2}} ({{.location2}})</dd> 
+      <p style="margin:0.35em;"></p> 
+      <dd>{{.title3}} ({{.location3}})</dd>
+      <p style="margin:0.5em;"></p> 
   {{ end }}
 </dl>
   
+{{end}}
+
+{{ else if eq $.Site.LanguageCode "en-us" }}
+
+{{range sort .Site.Data.talks "year" "desc"}}
+
+<dl>
+  <b> <dt>{{.year}}</dt> </b>
+  {{ if and (eq .title3 "") (eq .title2 "")}} 
+    <dd> {{if eq .title1en ""}} {{.title1}}, {{.location1en}} {{else}} {{.title1}} [{{.title1en}}], {{.location1en}} {{end}}</dd> 
+    <p style="margin:0.5em;"></p>
+  {{ else if (eq .title3 "")}} 
+    <dd>
+      {{if eq .title1en ""}} {{.title1}}, {{.location1en}} {{else}} {{.title1}} [{{.title1en}}], {{.location1en}} {{end}}</dd> 
+    <p style="margin:0.35em;"></p>  
+    <dd> {{if eq .title2en ""}} {{.title2}}, {{.location2en}} {{else}} {{.title2}} [{{.title2en}}], {{.location2en}} 
+      {{end}}
+    </dd> 
+    <p style="margin:0.5em;"></p>
+  {{else}} 
+    <dd> {{if eq .title1en}} {{.title1}}, {{.location1en}} {{else}} {{.title1}} [{{.title1en}}], {{.location1en}} {{end}}</dd> 
+    <p style="margin:0.35em;"></p> 
+    <dd>{{if eq .title2en ""}} {{.title2}}, {{.location2en}} {{else}} {{.title2}} [{{.title2en}}], {{.location2en}} {{end}}</dd> 
+    <p style="margin:0.35em;"></p> 
+    <dd>{{if eq .title3 ""}} {{.title3}}, {{.location3en}} {{else}} {{.title3}} [{{.title3en}}], {{.location3en}} {{end}}
+    </dd>
+    <p style="margin:0.5em;"></p> 
+  {{ end }}
+</dl>
+  
+{{end}}
+
+{{ else if eq $.Site.LanguageCode "pt" }}
+
+{{range sort .Site.Data.talks "year" "desc"}}
+
+<dl>
+  <b> <dt>{{.year}}</dt> </b>
+  {{ if and (eq .title3 "") (eq .title2 "")}} 
+    <dd> {{if eq .title1en ""}} {{.title1}}, {{.location1br}} {{else}} {{.title1}} [{{.title1br}}], {{.location1br}} {{end}}</dd> 
+    <p style="margin:0.5em;"></p>
+  {{ else if (eq .title3 "")}} 
+    <dd>
+      {{if eq .title1en ""}} {{.title1}}, {{.location1br}} {{else}} {{.title1}} [{{.title1br}}], {{.location1br}} {{end}}</dd> 
+    <p style="margin:0.35em;"></p>  
+    <dd> {{if eq .title2en ""}} {{.title2}}, {{.location2br}} {{else}} {{.title2}} [{{.title2br}}], {{.location2br}} 
+      {{end}}
+    </dd> 
+    <p style="margin:0.5em;"></p>
+  {{else}} 
+    <dd> {{if eq .title1br}} {{.title1}}, {{.location1br}} {{else}} {{.title1}} [{{.title1br}}], {{.location1br}} {{end}}</dd> 
+    <p style="margin:0.35em;"></p> 
+    <dd>{{if eq .title2en ""}} {{.title2}}, {{.location2br}} {{else}} {{.title2}} [{{.title2br}}], {{.location2br}} {{end}}</dd> 
+    <p style="margin:0.35em;"></p> 
+    <dd>{{if eq .title3 ""}} {{.title3}}, {{.location3br}} {{else}} {{.title3}} [{{.title3br}}], {{.location3br}} {{end}}
+    </dd>
+    <p style="margin:0.5em;"></p> 
+  {{ end }}
+</dl>
+  
+{{end}}
 {{end}}

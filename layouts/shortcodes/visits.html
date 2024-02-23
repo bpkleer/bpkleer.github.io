@@ -1,3 +1,7 @@
+
+
+{{ if eq $.Site.LanguageCode "de" }}
+
 {{range sort .Site.Data.visits "weight" "desc"}}
 
 <dl>
@@ -6,7 +10,39 @@
   {{else}}
   <b> <dt>{{.begin}} - {{.end}}</dt> </b>
   {{ end }}
-  <dd>{{.stay}}, {{.why}}, {{.duration}}</dd>
+  <dd>{{.stay}}, {{.why}}</dd>
 </dl>
   
+{{end}}
+
+{{ else if eq $.Site.LanguageCode "en-us" }}
+
+{{range sort .Site.Data.visits "weight" "desc"}}
+
+<dl>
+  {{ if (eq .begin .end) }}
+  <b> <dt>{{.begin}}</dt> </b>
+  {{else}}
+  <b> <dt>{{.begin}} - {{.end}}</dt> </b>
+  {{ end }}
+  <dd>{{.stay}}, {{.whyen}}</dd>
+</dl>
+  
+{{end}}
+
+{{ else if eq $.Site.LanguageCode "pt" }}
+{{range sort .Site.Data.visits "weight" "desc"}}
+
+<dl>
+  {{ if (eq .begin .end) }}
+  <b> <dt>{{.begin}}</dt> </b>
+  {{else}}
+  <b> <dt>{{.begin}} - {{.end}}</dt> </b>
+  {{ end }}
+  <dd>{{.stay}} ({{.whybr}})</dd>
+</dl>
+  
+{{end}}
+
+
 {{end}}

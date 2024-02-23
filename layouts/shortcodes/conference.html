@@ -1,3 +1,15 @@
+{{ if eq $.Site.LanguageCode "pt" }}
+
+{{range sort .Site.Data.konferenzen "year" "desc"}}
+
+<dl>
+  <b> <dt>{{.year}}</dt> </b>
+  {{ if and (eq .conference3 "") (eq .conference2 "")}} <dd>{{.conference1}}<sup>{{.contribution1br}}</sup></dd> {{ else if (eq .conference3 "")}} <dd>{{.conference1}}<sup>{{.contribution1br}}</sup>, {{.conference2}}<sup>{{.contribution2br}}</sup></dd> {{else}} <dd>{{.conference1}}<sup>{{.contribution1br}}</sup>, {{.conference2}}<sup>{{.contribution2br}}</sup>, {{.conference3}}<sup>{{.contribution3br}}</sup></dd>
+  {{ end }}
+</dl>
+{{ end }}
+{{ else }}
+
 {{range sort .Site.Data.konferenzen "year" "desc"}}
 
 <dl>
@@ -6,4 +18,6 @@
   {{ end }}
 </dl>
   
+{{end}}
+
 {{end}}
