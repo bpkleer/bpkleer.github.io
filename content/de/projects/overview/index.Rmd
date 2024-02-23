@@ -1,5 +1,5 @@
 ---
-title: "Academia"
+title: "Kurzüberblick"
 weight: 15
 bibliography: [../../../../static/files/cv.bib]
 csl: [../../../../static/files/apa-cv.csl]
@@ -7,23 +7,9 @@ link-citations: false
 suppress-bibliography: true
 --- 
 
+Hier finden Sie eine Schnellübersicht über wichtige Bereiche meines beruflichen Werdegangs. Eine ausführlichere Übersicht finden Sie in meinen **akademischen CV**: [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf), [**EN**](https://bpkleer.github.io/files/kleer-cvs-en.pdf), [**PT**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf).
+
 Während meiner akademischen Tätigkeiten habe ich neben **internationalen** Fachvorträgen und Fachveröffentlichungen auch öffentliche Vorträge gehalten, in denen ich Fachinhalte/-probleme einer breiteren Öffentlichkeit vorgestellt habe. Insbesondere konnte ich auf Konferenzen und Aufenthalten im Ausland meine **interpersonalen** und **kulturellen Kompetenzen** ausbauen. 
-
-An der Professur für Methoden der Politikwissenschaft habe ich in meiner Anstellung als wissenschaftlicher Mitarbeiter mit Lehre in großem Umfang an der Organisation der Professur sowie der Koordination der studentischen Hilfskräfte mitgewirkt. 
-
-Eine ausführlichere Übersicht finden Sie in meinen [**akademischen CV**](https://bpkleer.github.io/files/kleer-cvs.pdf) ([**EN**](https://bpkleer.github.io/files/kleer-cvs-en.pdf), [**PT**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf)).
-
-#### Auslandsaufenthalte
-{{% visits %}}
-
-#### Konferenzen
-
-{{% conference %}}
-<h6><sup>P</sup> Paper; <sup>C</sup> Chair</h6>
-
-#### Gastvorträge
-
-{{% talks %}}
 
 #### Aktuelle Publikationen
 [@Hunklinger2024]
@@ -37,6 +23,19 @@ Eine ausführlichere Übersicht finden Sie in meinen [**akademischen CV**](https
 [@Kleer2021]
 
 [@Kleer2020]
+
+#### Auslandsaufenthalte
+
+{{% visits %}}
+
+#### Konferenzen
+
+{{% conference %}}
+<h6><sup>P</sup> Paper; <sup>C</sup> Chair</h6>
+
+#### Gastvorträge
+
+{{% talks %}}
 
 #### Fördermittel
 |   |   |

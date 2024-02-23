@@ -1,0 +1,48 @@
+---
+title: "Quick Look"
+weight: 15
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true
+--- 
+
+Here you find a quick overview of important areas of my professional career. You can find a more comprehensive overview in my **academic CV**: [**EN**](https://bpkleer.github.io/files/kleer-cvs-en.pdf), [**PT**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf), [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf).
+
+During my academic activities, I have given **international** scientific presentations, as well as public lectures in which I presented scientific content/problems to a wider audience. Furthermore, I published part of my work internationaly. In particular, I expanded my **interpersonal** and **cultural skills** at conferences and stays abroad.
+
+#### Recent publications
+[@Hunklinger2024]
+
+[@Abendschoen2023] 
+
+[@Kleer2023]
+
+[@Abendschoen2022a]
+
+[@Kleer2021]
+
+[@Kleer2020]
+
+#### Stays abroad
+
+{{% visits %}}
+
+#### Conferences
+
+{{% conference %}}
+<h6><sup>P</sup> Paper; <sup>C</sup> Chair</h6>
+
+#### Talks
+
+{{% talks %}}
+
+#### Grants
+
+| | |
+|:---:|---------------------------------|
+| 2024 | Travel-Grant (DAAD), European Conference on Gender and Politics, ECPR Standing Group *Gender and Politics* (Gent, Belgium, amount: 907 Euro) |
+| 2023 | Travel-Grant (DAAD), World Congress of International Political Science Association in Buenos Aires, Argentina (amount: 2,440 Euro) |
+| 2021 | Statistics+: Easy start in R, together with Simone Abendschön, Teaching Innovation Grant (QSL-D), Faculty 03, Justus-Liebig-University Giessen (amount: 20,754 Euro) |
+| 2020 | Travel-Grant (DAAD), World Congress of the International Council of Central Eastern Europe Studies at Concordia University Montréal (amount: 1,916 Euro; cancelled due to Covid-19-pandemic) |
+| 2018 | Fostering students’ methods competence individually: Implementation of a web-based-training in MA courses, together with Simone Abendschön, Teaching Innovation Grant (QSL-D), Faculty 03, Justus-Liebig-University Giessen (amount: 23,960 Euro) |
