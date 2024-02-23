@@ -13185,6 +13185,10 @@ pre {
 .navbar {
   background-color: #ffffff; }
 
+.navbar-menu {
+  background-color: #ffffff;
+  box-shadow: 0 0px 0px rgba(10, 10, 10, 0.1) !important; }
+
 .navbar-burger {
   margin-right: auto;
   color: #579D90; }
@@ -13195,7 +13199,8 @@ pre {
 .navbar-item {
   text-transform: uppercase;
   color: #4a4a4a;
-  font-size: 1.25rem; }
+  font-size: 1.25rem;
+  background-color: #ffffff; }
   .navbar-item:hover {
     background-color: #ffffff !important; }
 
@@ -19495,6 +19500,9 @@ readers do not read off random characters that represent icons */
     margin: 0 5px; }
   .navbar {
     background-color: #5A5A5A; }
+  .navbar-menu {
+    background-color: #5A5A5A;
+    box-shadow: 0 0px 0px rgba(10, 10, 10, 0.1) !important; }
   .navbar-burger {
     margin-right: auto;
     color: #579D90; }
@@ -19503,7 +19511,8 @@ readers do not read off random characters that represent icons */
   .navbar-item {
     text-transform: uppercase;
     color: #E2E2E2;
-    font-size: 1.25rem; }
+    font-size: 1.25rem;
+    background-color: #5A5A5A; }
     .navbar-item:hover {
       background-color: #5A5A5A !important; }
   .owl-nav {
