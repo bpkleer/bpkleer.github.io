@@ -1,8 +1,9 @@
 {
   "UFPE": { 
-    "stay": "Universidade Federal de Pernambuco (Recife)",
-    "why": "Research stay",
-    "duration": "6 months",
+    "stay": "Universidade Federal de Pernambuco",
+    "why": "Gastaufenthalt",
+    "whyen": "Visiting researcher",
+    "whybr": "Pesquisador visitante",
     "begin": "10/2023",
     "end": "03/2024",
     "weight": "2"
@@ -10,8 +11,9 @@
   },
   "UC3M": { 
     "stay": "Universidad Carlos III de Madrid",
-    "why": "Research stay",
-    "duration": "2 weeks",
+    "why": "Forschungszusamenarbeit",
+    "whyen": "Research collaboration",
+    "whybr": "Colaboração de pesquisa",
     "begin": "06/2023",
     "end": "06/2023",
     "weight": "1"
