@@ -20,6 +20,7 @@
         border: 1px solid #e5e5e5
         text-align: center
         background-color: #878787
+        color: #e2e2e2
     tbody tr:nth-child(odd) td,
     tbody tr:nth-child(odd) th
         background-color: darken(#878787, 10%)
@@ -29,4 +30,4 @@
     td a, th a
         color: $secondary
         &:hover
-            color: $secondary!important
+            color: lighten($secondary, 50%)!important
