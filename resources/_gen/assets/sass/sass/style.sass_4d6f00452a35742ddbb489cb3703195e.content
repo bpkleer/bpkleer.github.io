@@ -19420,10 +19420,10 @@ readers do not read off random characters that represent icons */
     padding: 0; }
   img {
     border-radius: 5px;
-    border: 1px solid #579D90;
+    border: 1px solid #414A49;
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); }
   hr {
-    background-color: #579D90;
+    background-color: #414A49;
     height: 1px; }
   details {
     padding: .5em .5em 0; }
@@ -19619,7 +19619,7 @@ readers do not read off random characters that represent icons */
     position: relative;
     margin: 1.75rem 0;
     border: 0;
-    border-top: 1px solid #579D90; }
+    border-top: 1px solid #414A49; }
   .markdown abbr {
     font-size: 0.8rem;
     font-weight: bold;
@@ -19683,6 +19683,10 @@ readers do not read off random characters that represent icons */
     background-color: #6e6e6e; }
   .markdown tbody tr:nth-child(even) td,
   .markdown tbody tr:nth-child(even) th {
-    background-color: #878787; } }
+    background-color: #878787; }
+  .markdown td a, .markdown th a {
+    color: #414A49; }
+    .markdown td a:hover, .markdown th a:hover {
+      color: #414A49 !important; } }
 
 /*# sourceMappingURL=main.css.map */
