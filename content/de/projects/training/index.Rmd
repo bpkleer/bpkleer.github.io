@@ -5,6 +5,7 @@ weight: 14
 
 
 #### Methoden
+- 2024: Oxford Spring School: *Machine Learning with R*
 - 2023: Gesis Spring Seminar: *Comparative Social Research with Multi-Group SEM*
 - 2021: ECPR Virtual Spring School in Methods and Techniques 2021, KU Leuven: *Introduction to Structural Equation Modelling*
 - 2020: ECPR Virtual Summer School in Methods and Techniques 2020, CEU Budapest: *Quantitative Text Analysis*
