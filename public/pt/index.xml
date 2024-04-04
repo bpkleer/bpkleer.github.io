@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apresentação</title>
+    <link>https://bpkleer.de/pt/</link>
+    <description>Recent content on Apresentação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language><atom:link href="https://bpkleer.de/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atuação &amp; Formação</title>
+      <link>https://bpkleer.de/pt/projects/cvw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects/cvw/</guid>
+      <description>Aqui apresento uma breve visão geral de meu atuações profissionais e formação acadêmica.
+Atuações profissionais 02/2023 - 09/2024 Pesquisador (pós-doc, UE-Horizon projeto G-EPIC), Universidade Justus Liebig de Giessen
+- enquanto isso, ficada na Universidad Carlos III de Madrid (2 semanas) e de seis meses na Universidade Federal de Pernambuco (Recife, Brasil)
+- Planeamento, administração e realização de análises estatísticas (com R, Python e SQL)
+- Elaboração de relatórios e artigos, planeamento na área do projeto</description>
+    </item>
+    
+    <item>
+      <title>Ensino</title>
+      <link>https://bpkleer.de/pt/projects/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects/teaching/</guid>
+      <description>Durante meu período como pesquisador na cátedra de métodos em ciência política, ensinei continuamente nos programs de graduação do departomento, com foco no ensino de pesquisa empírica no programa BA Social Sciences (graduação).
+Meu interesse em ensino se reflete na minha experiência em treinamento e supervisão de estudos (por exemplo, nos projetos deles de último ano). Minhas funções de docente me equiparam com a capacidade de comunicar conhecimento de forma eficaz, preparar e apresentar conteúdo complexo eficazmente, bem como conduzir discussões e fornecer feedback construtivo para facilitar a aprednizagem dos estudantes.</description>
+    </item>
+    
+    <item>
+      <title>Pesquisa</title>
+      <link>https://bpkleer.de/pt/projects/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects/research/</guid>
+      <description>Meus interesses de pesquisa estão tanto na socialização política quanto nas atitudes políticas e na pesquisa de apoio político. Abaixo, você encontra uma visão geral dos meus projetos de pesquisa.
+Em projetos de pesquisa menores e maiores, pude desenvolver minhas habilidades em planejamento e organização e gestão de projetos e descobrir e consolidar minha força em colaboração em equipe. Além disso, consegui expandir constantemente minhas habilidades em aplicação e análise de dados quantitativos.</description>
+    </item>
+    
+    <item>
+      <title>Formação complementar</title>
+      <link>https://bpkleer.de/pt/projects/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects/training/</guid>
+      <description>Métodos 2024: Oxford Spring School: Machine Learning with R 2023: Gesis Spring Seminar: Comparative Social Research with Multi-Group SEM 2021: ECPR Virtual Spring School in Methods and Techniques 2021, KU Leuven: Introduction to Structural Equation Modelling 2020: ECPR Virtual Summer School in Methods and Techniques 2020, CEU Budapest: Quantitative Text Analysis 2019: 48. Gesis Spring Seminar “Bayesian Modelling in the Social Sciences: Introduction to Bayesian Models for the Social Sciences 2018: ECPR Summer School in Methods and Techniques 2018, CEU Budapest: Applied Multilevel Regression Modelling 2016: 5.</description>
+    </item>
+    
+    <item>
+      <title>Essenciais</title>
+      <link>https://bpkleer.de/pt/projects/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/pt/projects/overview/</guid>
+      <description>Aqui você encontra uma visão geral rápida de áreas importantes da minha carreira profissional. Mais detalhes poderia ser encontrado no meu currículo academico: PT, EN, DE.
+Durante minhas atividades acadêmicas, não só dei palestras e publicações internacionais , mas também dei palestras públicas nas quais apresentei conteúdo científico/problemas científicas a um público mais amplo. Em particular, pude expandir minhas competências interpessoais e culturais em conferências e estadias no exterior.</description>
+    </item>
+    
+  </channel>
+</rss>

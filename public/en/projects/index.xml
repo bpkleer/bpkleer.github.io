@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About me on Introduction</title>
+    <link>https://bpkleer.de/en/projects/</link>
+    <description>Recent content in About me on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://bpkleer.de/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employments &amp; Education</title>
+      <link>https://bpkleer.de/en/projects/cvw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/cvw/</guid>
+      <description>Here I give you a brief overview of my previous employment and training.
+Employments 02/2023 - 09/2024 Researcher (EU-Horizon project G-EPIC), Chair of Methods in Political Science, Justus Liebig University Giessen - during this, guest stay at Universidad Carlos III de Madrid (2 weeks) and six-months at the Universidade Federal de Pernambuco (Recife, Brazil)
+- planning, managing and conducting statistical analyses (with R, Python, and SQL)
+- preparing &amp;amp; publishing reports &amp;amp; academic papers</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://bpkleer.de/en/projects/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/teaching/</guid>
+      <description>As a research assistant at the Chair of Methods in Political Science, I have continuously taught in the Institute&amp;rsquo;s degree programs, focusing on the practical teaching of empirical social research in the BA program in Social Sciences.
+My interest in education is reflected in my experience training and supervising students (e.g., on final-year projects). My teaching roles have equipped me to impart knowledge successfully, prepare and present complex content effectively, guide discussions, and provide constructive feedback to facilitate learning.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://bpkleer.de/en/projects/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/research/</guid>
+      <description>My research interests lie in political socialization and political attitude/support research. Below, you will find an overview of the research projects.
+In smaller and more extensive research projects, I developed my skills in planning and organizing projects and discovering and consolidating my strength in team collaboration. In addition, I steadily expanded my skills in the application and evaluation of quantitative data analysis.
+One of my strengths lies in understanding large amounts of information, a crucial skill in my research endeavors.</description>
+    </item>
+    
+    <item>
+      <title>Additional training</title>
+      <link>https://bpkleer.de/en/projects/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/training/</guid>
+      <description>Methods 2024: Oxford Spring School: Machine Learning with R 2023: Gesis Spring Seminar: Comparative Social Research with Multi-Group SEM 2021: ECPR Virtual Spring School in Methods and Techniques 2021, KU Leuven: Introduction to Structural Equation Modelling 2020: ECPR Virtual Summer School in Methods and Techniques 2020, CEU Budapest: Quantitative Text Analysis 2019: 48. Gesis Spring Seminar “Bayesian Modelling in the Social Sciences: Introduction to Bayesian Models for the Social Sciences 2018: ECPR Summer School in Methods and Techniques 2018, CEU Budapest: Applied Multilevel Regression Modelling 2016: 5.</description>
+    </item>
+    
+    <item>
+      <title>Quick Look</title>
+      <link>https://bpkleer.de/en/projects/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/overview/</guid>
+      <description>Here you find a quick overview of important areas of my professional career. You can find a more comprehensive overview in my academic CV: EN, PT, DE.
+During my academic activities, I have given international scientific presentations, as well as public lectures in which I presented scientific content/problems to a wider audience. Furthermore, I published part of my work internationaly. In particular, I expanded my interpersonal and cultural skills at conferences and stays abroad.</description>
+    </item>
+    
+  </channel>
+</rss>
