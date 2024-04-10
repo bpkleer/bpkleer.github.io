@@ -13,7 +13,7 @@
 [index_blog_readMore]
     other = "Weiterlesen"
 [index_currentTime]
-    other = "Meine lokale Zeit (Recife, Brasilien) ist"
+    other = "Meine lokale Zeit (Berlin, Europa) ist"
 [nav_backToSection]
     other = "Zurück zu {{ .Title }}"
 [nav_main]
