@@ -1,6 +1,4 @@
 ---
-title: "Dr. Philipp Kleer"
+title: "Philipp Kleer"
 headless: true
 ---
-
-Political Scientist
