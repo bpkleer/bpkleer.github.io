@@ -38,6 +38,10 @@ ignoreFiles                      = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cac
         icon  = "linkedin-in fa-2x" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
+        url   = "https://github.com/bpkleer"
+        icon  = "github fa-2x" # icon name without the 'fa-'
+        icon_pack = "fab"
+    [[params.social]]
         url   = "https://orcid.org/0000-0003-1935-387X"
         icon  = "orcid ai-2x" # icon name without the 'fa-'
         icon_pack = "ai"
@@ -45,18 +49,6 @@ ignoreFiles                      = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cac
         url   = "http://lattes.cnpq.br/4785970328498860"
         icon  = "lattes ai-2x" # icon name without the 'fa-'
         icon_pack = "ai"
-    [[params.social]]
-        url   = "https://www.researchgate.net/profile/Philipp-Kleer"
-        icon  = "researchgate-square ai-2x" # icon name without the 'fa-'
-        icon_pack = "ai"
-    [[params.social]]
-        url   = "https://gitlab.com/bpkleer"
-        icon  = "gitlab fa-2x" # icon name without the 'fa-'
-        icon_pack = "fab"
-    [[params.social]]
-        url   = "https://github.com/bpkleer"
-        icon  = "github fa-2x" # icon name without the 'fa-'
-        icon_pack = "fab"
     [[params.social]]
         url = "mailto:philipp.kleer@posteo.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane fa-2x" # icon name without the 'fa-'
