@@ -1,5 +1,5 @@
 ---
-title: "Kurzüberblick"
+title: "Aktivitäten"
 weight: 15
 bibliography: [../../../../static/files/cv.bib]
 csl: [../../../../static/files/apa-cv.csl]
@@ -7,9 +7,9 @@ link-citations: false
 suppress-bibliography: true
 --- 
 
-Hier finden Sie eine Schnellübersicht über wichtige Bereiche meines beruflichen Werdegangs. Eine ausführlichere Übersicht finden Sie in meinen **akademischen CV**: [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf), [**EN**](https://bpkleer.github.io/files/kleer-cvs-en.pdf), [**PT**](https://bpkleer.github.io/files/kleer-cvs-pt.pdf).
-
 Während meiner akademischen Tätigkeiten habe ich neben **internationalen** Fachvorträgen und Fachveröffentlichungen auch öffentliche Vorträge gehalten, in denen ich Fachinhalte/-probleme einer breiteren Öffentlichkeit vorgestellt habe. Insbesondere konnte ich auf Konferenzen und Aufenthalten im Ausland meine **interpersonalen** und **kulturellen Kompetenzen** ausbauen. 
+
+Eine Übersicht meines akademischen Werdegangs finden Sie auch in meinem **akademischen CV**: [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf).
 
 #### Aktuelle Publikationen
 [@Hunklinger2024]

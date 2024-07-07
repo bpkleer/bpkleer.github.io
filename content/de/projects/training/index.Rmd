@@ -20,6 +20,7 @@ weight: 14
 - 2017: Zertifikat Kompetenz für professionelle Hochschullehre (14 Workshops & 1 Lehrprojekt), u.a. *Einführung in die kollegiale Beratung*, *Diskussionen leiten* und *Studienberatung von nicht-traditionellen Studierenden*
 
 #### Wissenschaftsmanagement-/verwaltung
+- 2024: Multiprojektmanagement
 - 2023: Drittmittel-Expert:innen Programm 2023
 - 2022: ABC der Antragstellung
 - 2020: SAP Schulung Beginner \& Fortgeschrittene

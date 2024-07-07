@@ -19,6 +19,7 @@ weight: 14
 - 2017: Certificate of Competence in Higher Education (14 workshops & 1 teaching project), e.g., *Introduction to peer counseling*, *Leading discussions*, and *Academic advising for non-traditional students*
 
 #### General (Project) Management
+- 2024: Multi project management
 - 2023: Third-party Funding Experts Program 2023
 - 2022: ABC of Grant Writing
 - 2020: SAP Training
