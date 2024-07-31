@@ -9,7 +9,7 @@ Dr. Philipp Kleer, Reichenberger Str. 54, 10999 Berlin
 
 #### Contact
 
-E-Mail: philipp.kleer(at)posteo.com
+E-Mail: philipp.kleer+contact(at)posteo.com
 
 The contents of this website are researched and implemented with the greatest possible care. However, errors in the processing process cannot be ruled out. I am therefore very grateful for hints and corrections.
 

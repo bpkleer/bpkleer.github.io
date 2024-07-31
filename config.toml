@@ -50,7 +50,7 @@ ignoreFiles                      = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cac
         icon  = "lattes ai-2x" # icon name without the 'fa-'
         icon_pack = "ai"
     [[params.social]]
-        url = "mailto:philipp.kleer@posteo.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:philipp.kleer+contact@posteo.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane fa-2x" # icon name without the 'fa-'
         icon_pack = "fas"
 
