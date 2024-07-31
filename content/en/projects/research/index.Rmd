@@ -21,6 +21,13 @@ I am particularly concerned with young people, pre-service teachers, and teacher
 I am currently employed in the EU-Horizon project [**G-EPIC**](https://www.g-epic.eu), in which I primarily process knowledge and analyze data to investigate (intersectional) effects on the political interest and political self-efficacy of young people. 
 
 ##### Selected publications on this topic:
+
+[@Kleer2024a]
+
+[@Kleer2024c]
+
+[@Kleer2024e]
+
 [@Kleer2023a]
 
 [@Abendschoen2023]
@@ -29,10 +36,6 @@ I am currently employed in the EU-Horizon project [**G-EPIC**](https://www.g-epi
 
 [@Kleer2021]
 
-[@Kleer2024c]
-
-[@Kleer2023b]
-
 
 #### Political Attitudes/Support
 With Michael Hunklinger, I deal with the effects on the voting behavior of LGBTIQ\*. In particular, we are investigating how group-specific attitudes impact voting decisions and participation behavior. 
@@ -40,9 +43,14 @@ With Michael Hunklinger, I deal with the effects on the voting behavior of LGBTI
 In my doctoral thesis, I dealt intensively with the theoretical conditions of the different levels of political support in the field of political support research in the context of consolidated democracies in Central and Eastern Europe. I examined these possible interactions, taking economic effects into account. 
 
 ##### Selected publications on this topic:
+
+[@Junge2024]
+
+[@Kleer2024b]
+
 [@Hunklinger2024]
 
-[@Kleer2023] 
+[@Kleer2023]
 
 [@Kleer2024b]
 
