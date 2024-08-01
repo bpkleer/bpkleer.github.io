@@ -3,8 +3,6 @@ title: "Employments & Education"
 weight: 11
 ---
 
-Here I give you a brief overview of my previous employment and training. 
-
 #### Employments
 | <span style="font-weight:normal">02/2023 - 09/2024</span> | <span style="font-weight:normal">Researcher (EU-Horizon project [G-EPIC](https://g-epic.eu)), <br>Chair of Methods in Political Science, Justus Liebig University Giessen <br> - during this, guest stay at Universidad Carlos III de Madrid (2 weeks) and six-months at the Universidade Federal de Pernambuco (Recife, Brazil)<br>- planning, managing and conducting statistical analyses (with R, Python, and SQL)<br>- preparing & publishing reports & academic papers<br>- collaboration & working in international team<br>- managing project budget</span> |
 |:-----:|---------------------------------|

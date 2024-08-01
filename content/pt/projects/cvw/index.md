@@ -3,8 +3,6 @@ title: "Atuação & Formação"
 weight: 11
 ---
 
-Aqui apresento uma breve visão geral de meu atuações profissionais e formação acadêmica. 
-
 #### Atuações profissionais
 
 | <span style="font-weight:normal">02/2023 - 09/2024 </span>  |<span style="font-weight:normal">Pesquisador (pós-doc, UE-Horizon projeto [G-EPIC](https://g-epic.eu)), Universidade Justus Liebig de Giessen<br> - enquanto isso, ficada na Universidad Carlos III de Madrid (2 semanas) e de seis meses na Universidade Federal de Pernambuco (Recife, Brasil)<br>- Planeamento, administração e realização de análises estatísticas (com R, Python e SQL)<br>- Elaboração de relatórios e artigos, planeamento na área do projeto<br>- Colaboração e trabalho numa equipa internacional<br>- Gestão do orçamento do projeto</span>   | 
