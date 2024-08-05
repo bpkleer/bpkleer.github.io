@@ -99,13 +99,13 @@ ignoreFiles                      = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cac
             description  = "Persönliche Website von Dr. Philipp Kleer"
             footerText   = "&copy; Philipp Kleer, 2024."
             
-    [languages.pt]
-        languageName     = "Português"
-        languageCode     = "pt"
-        contentDir       = "content/pt"
+    [languages.br]
+        languageName     = "Portugues"
+        languageCode     = "br"
+        contentDir       = "content/br"
         weight           = 3
         title            = "Apresentação"
-        [languages.pt.params]
+        [languages.br.params]
             dateFormat   = "2. January 2006"
             description  = "Website do Dr. Philipp Kleer"
             footerText   = "&copy; Philipp Kleer, 2024."
