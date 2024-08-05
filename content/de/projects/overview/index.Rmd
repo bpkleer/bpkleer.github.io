@@ -9,7 +9,7 @@ suppress-bibliography: true
 
 Während meiner akademischen Tätigkeiten habe ich neben **internationalen** Fachvorträgen und Fachveröffentlichungen auch öffentliche Vorträge gehalten, in denen ich Fachinhalte/-probleme einer breiteren Öffentlichkeit vorgestellt habe. Insbesondere konnte ich auf Konferenzen und Aufenthalten im Ausland meine **interpersonalen** und **kulturellen Kompetenzen** ausbauen. 
 
-Eine Übersicht meines akademischen Werdegangs finden Sie auch in meinem **akademischen CV**: [**DE**](https://bpkleer.github.io/files/kleer-cvs.pdf).
+Eine Übersicht meines akademischen Werdegangs finden Sie auch in meinem **akademischen CV**: [**DE**](https://bpkleer.github.io/files/cvs-kleer-de.pdf).
 
 #### Aktuelle Publikationen
 
