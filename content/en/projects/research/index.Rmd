@@ -4,7 +4,7 @@ weight: 13
 bibliography: [../../../../static/files/cv.bib]
 csl: [../../../../static/files/apa-cv.csl]
 link-citations: false
-suppress-bibliography: true
+suppress-bibliography: true 
 ---
 
 My research interests lie in political socialization and political attitude/support research. Below, you will find an overview of the research projects.
@@ -25,6 +25,8 @@ I am currently employed in the EU-Horizon project [**G-EPIC**](https://www.g-epi
 [@Kleer2024a]
 
 [@Kleer2024c]
+
+[@Kleer2024d]
 
 [@Kleer2024e]
 
@@ -51,6 +53,3 @@ In my doctoral thesis, I dealt intensively with the theoretical conditions of th
 [@Hunklinger2024]
 
 [@Kleer2023]
-
-[@Kleer2024b]
-

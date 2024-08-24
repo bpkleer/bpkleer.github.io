@@ -27,6 +27,8 @@ Atualmente, estou trabalhando no projeto [**G-EPIC**](https://www.g-epic.eu) (EU
 
 [@Kleer2024c]
 
+[@Kleer2024d]
+
 [@Kleer2024e]
 
 [@Kleer2023a]
@@ -46,12 +48,10 @@ Em minha tese de doutorado, analisei intensamente as condições teóricas dos d
 
 ##### Publicações selecionadas sobre esse tópico:
 
-[@Junge2024]
-
 [@Kleer2024b]
+
+[@Junge2024]
 
 [@Hunklinger2024]
 
 [@Kleer2023]
-
-[@Kleer2024b]
