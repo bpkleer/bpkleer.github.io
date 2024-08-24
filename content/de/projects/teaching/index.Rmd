@@ -1,6 +1,10 @@
 ---
 title: "Lehre"
 weight: 12
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true
 ---
 
 Während meiner Zeit als wissenschaftlicher Mitarbeiter an der Professur für Methoden der Politikwissenschaft habe ich kontinuierlich in den Studiengängen des Instituts gelehrt, wobei ein Fokus meiner Lehre in der praktischen Vermittlung empirischer Sozialforschung im BA-Studiengang *Social Sciences* lag.
@@ -12,6 +16,12 @@ In der Lehre habe ich stets Kurse weiterentwickelt und mehrere Web-Based-Trainin
 Daneben habe ich für die Justus-Liebig-Universität Gießen als auch für die FernUniversität Hagen im Laufe der letzten Jahre mehrere **Lernvideos** rund um Statistik und die Anwendung in R erstellt.
 
 In **anwendungsorientierten** Kursen habe ich dabei immer Wert darauf gelegt, **Projekt-/Kollaborationstools** (wie Git) zu integrieren, und zum Beispiel **automatisierte Kontrollen von Code-Abgaben** über Git zu ermöglichen (siehe CI-Projekt unten). 
+
+#### Veröffentlichungen in Lehre
+
+[@Kleer2024f]
+
+[@Kleer2020]
 
 #### Links Lehrprojekten
 

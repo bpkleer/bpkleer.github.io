@@ -1,6 +1,10 @@
 ---
 title: "Teaching"
 weight: 12
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true 
 ---
 
 As a research assistant at the Chair of Methods in Political Science, I have continuously taught in the Institute's degree programs, focusing on the practical teaching of empirical social research in the BA program in *Social Sciences*.
@@ -12,6 +16,11 @@ In teaching, I have always developed courses further and **designed**, **develop
 In addition, I have created several **learning videos** on statistics and its application in R for the Justus-Liebig-University and the FernUniversität Hagen over the last few years.
 
 In **application-oriented courses**, I have always emphasized integrating **project/collaboration tools** (such as Git) and, for example, enabling **automated checks of code submissions** via Git (see CI project below).
+
+#### Publications in teaching
+[@Kleer2024f] 
+
+[@Kleer2020]
 
 #### Links to projects' resources
 
