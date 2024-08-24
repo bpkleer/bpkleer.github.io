@@ -11,30 +11,6 @@ Durante minhas atividades acadêmicas, não só dei palestras e publicações **
 
 Mais detalhes poderia ser encontrado no meu **currículo academico**: [**PT**](https://bpkleer.github.io/files/cvs-kleer-br.pdf).
 
-#### Publicações atuais
-
-[@Kleer2024a]
-
-[@Kleer2024c]
-
-[@Kleer2024e]
-
-[@Junge2024]
-
-[@Kleer2024b]
-
-[@Hunklinger2024]
-
-[@Abendschoen2023] 
-
-[@Kleer2023]
-
-[@Abendschoen2022a]
-
-[@Kleer2021]
-
-[@Kleer2020]
-
 #### Estadia no exterior 
 {{% visits %}}
 

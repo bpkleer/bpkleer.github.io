@@ -11,30 +11,6 @@ Während meiner akademischen Tätigkeiten habe ich neben **internationalen** Fac
 
 Eine Übersicht meines akademischen Werdegangs finden Sie auch in meinem **akademischen CV**: [**DE**](https://bpkleer.github.io/files/cvs-kleer-de.pdf).
 
-#### Aktuelle Publikationen
-
-[@Kleer2024a]
-
-[@Kleer2024c]
-
-[@Kleer2024e]
-
-[@Junge2024]
-
-[@Kleer2024b]
-
-[@Hunklinger2024]
-
-[@Abendschoen2023] 
-
-[@Kleer2023]
-
-[@Abendschoen2022a]
-
-[@Kleer2021]
-
-[@Kleer2020]
-
 #### Auslandsaufenthalte
 
 {{% visits %}}

@@ -11,30 +11,6 @@ During my academic activities, I have given **international** scientific present
 
 You can find a more comprehensive overview in my **academic CV**: [**EN**](https://bpkleer.github.io/files/cvs-kleer-en.pdf).
 
-#### Recent publications
-
-[@Kleer2024a]
-
-[@Kleer2024c]
-
-[@Kleer2024e]
-
-[@Junge2024]
-
-[@Kleer2024b]
-
-[@Hunklinger2024]
-
-[@Abendschoen2023] 
-
-[@Kleer2023]
-
-[@Abendschoen2022a]
-
-[@Kleer2021]
-
-[@Kleer2020]
-
 #### Stays abroad
 
 {{% visits %}}
