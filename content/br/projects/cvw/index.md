@@ -3,7 +3,7 @@ title: "Atuação & Formação"
 weight: 11
 ---
 
-#### Atuações profissionais
+#### Experiências profissionais
 
 | <span style="font-weight:normal">10/2024 - 12/2024</span> | <span style="font-weight:normal">Cientista de Dados (treinamento), DataScientest<br> - Machine Learning<br>- Big Data/Database (PySpark)<br> - Deep Learning<br>- Complex systems & AI<br>- NumPy, Pandas, Scikit-learn,  Matplotlib, Seaborn, Bokeh</span> |
 |:-----:|---------------------------------|
