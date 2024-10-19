@@ -1,7 +1,9 @@
 ---
 title: "Formação complementar"
-weight: 14
+weight: 12
 ---
+
+Como um cientista social dedicado, continuo aprimorando minhas habilidades por meio de vários programas de treinamento. Esses cursos me proporcionaram uma base sólida em métodos quantitativos e análise de dados, além de habilidades essenciais de ensino e gestão. Abaixo está uma lista dos cursos de desenvolvimento profissional que concluí, demonstrando meu compromisso com a aprendizagem contínua e minha disposição para enfrentar novos desafios na área de Data Science.
 
 #### Métodos
 - 2024: Machine Learning with R (Oxford Spring School)

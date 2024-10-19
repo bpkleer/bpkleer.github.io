@@ -1,7 +1,9 @@
 ---
 title: "Additional training"
-weight: 14
+weight: 12
 ---
+
+As a dedicated social scientist, I continuously enhance my skills through various training programs. These courses have equipped me with a robust foundation in quantitative methods and data analysis, as well as essential teaching and management skills. Below is a list of professional development courses I have completed, showcasing my commitment to lifelong learning and my readiness to tackle new challenges in Data Science.
 
 #### Methods
 - 2024: Machine Learning with R (Oxford Spring School)

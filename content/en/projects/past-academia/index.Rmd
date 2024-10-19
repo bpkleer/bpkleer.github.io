@@ -1,0 +1,88 @@
+---
+title: "Previous teaching/research activities"
+weight: 13
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true 
+---
+
+## Teaching 
+
+In my previous academic roles in the field of quantitative methods, I have designed practical teaching in empirical social research for the BA program *Social Sciences*. My commitment to education is evident in the training and mentoring of students, particularly with theses, where I **distill complex information into understandable insights** and provide **constructive feedback**.
+
+I have developed several web-based training programs and, as project leader, have been responsible for the planning, implementation, and oversight of these teaching projects. A particular focus has been on integrating R and Git into applied courses to teach students how to use project and collaboration tools and enable automated checks of code submissions.
+
+Additionally, I have created learning videos on statistics and R for Justus Liebig University Giessen and FernUniversität Hagen to promote the practical application of statistical methods.
+
+
+#### Publications in teaching
+[@Kleer2024f] 
+
+[@Kleer2020]
+
+#### Links to projects' resources
+
+- Web-Based-Training *Statistics for Social Sciences* (German): [Live-View](https://uni-giessen.de/methoden-ifp-stats101), [git-Repository](https://gitlab.ub.uni-giessen.de/methoden-politik/einstieg-in-statistik)
+
+- Web-Based-Training *Introduction with R* (German): [Live-View](https://uni-giessen.de/methoden-ifp-r), [git-Repository](https://gitlab.ub.uni-giessen.de/methoden-politik/einstieg-in-r)
+
+- Web-Based-Training *Introduction with SPSS* (German): [Live-View](https://uni-giessen.de/methoden-ifp-spss), [git-Repository](https://gitlab.ub.uni-giessen.de/methoden-politik/einstieg-in-spss)
+
+- Workshop *Data handling & visualization with tidyverse* (German): [git-Repository](https://gitlab.com/bpkleer/tidyverse-course)
+
+- Using CI/CD for teaching R: [git-Repository](https://gitlab.com/bpkleer/ci-cd-teaching)
+
+- Video tutorials in regard to R (FU Hagen): [Vimeo](https://vimeo.com/channels/1815333)
+
+- Video tutorials in regard to lecture Statistics for the Social Sciences: [Vimeo](https://vimeo.com/channels/1815335)
+
+#### Taught courses at universities
+Here you find an overview of courses and workshops I have taught so far. Courses were taught in title language.
+
+{{% lehre %}}  
+
+## Research
+My research interests lie in political socialization as well as political attitude and support research. In this context, I have developed my skills in **planning** and **organizing research projects** and solidified my strengths in **team collaboration**. I have acquired extensive competencies in the **application** and **analysis (of complex) quantitative data**, enabling me to distill complex information into **meaningful insights**.
+
+An overview of my academic background can be found on [Orcid](https://orcid.org/0000-0003-1935-387X).
+
+
+##### Selected publications:
+
+[@Kleer2024a]
+
+[@Kleer2024c]
+
+[@Kleer2024d]
+
+[@Kleer2024e]
+
+[@Kleer2023a]
+
+[@Hunklinger2024]
+
+[@Kleer2023]
+
+[@Abendschoen2023]
+
+[@Abendschoen2022a]
+
+[@Kleer2021]
+
+## Other
+
+During my academic activities, I have given **international** scientific presentations, as well as public lectures in which I presented scientific content/problems to a wider audience. Furthermore, I published part of my work internationaly. In particular, I expanded my **interpersonal** and **cultural skills** at conferences and stays abroad.
+
+#### Stays abroad
+
+{{% visits %}}
+
+#### Conferences
+
+{{% conference %}}
+<h6><sup>P</sup> Paper; <sup>C</sup> Chair</h6>
+
+#### Talks
+
+{{% talks %}}

@@ -1,0 +1,88 @@
+---
+title: "Frühere Lehr-/ Forschungsaktivitäten"
+weight: 13
+bibliography: [../../../../static/files/cv.bib]
+csl: [../../../../static/files/apa-cv.csl]
+link-citations: false
+suppress-bibliography: true
+--- 
+
+## Lehre
+In meinen früheren akademischen Rollen im Bereich quantitativer Methoden habe ich praxisnahe Lehre in der empirischen Sozialforschung für den BA-Studiengang *Social Sciences* gestaltet. Mein Engagement für Bildung zeigt sich in der Schulung und Betreuung von Studierenden, insbesondere bei Abschlussarbeiten, wo ich **komplexe Inhalte verständlich aufbereite**, und **konstruktives Feedback** gebe.
+
+Ich habe mehrere webbasierte Trainings entwickelt und als Projektleiter die Planung, Umsetzung und Kontrolle dieser Lehrprojekte verantwortet. Dabei lag ein besonderer Fokus auf der Integration von R und Git in anwendungsorientierten
+Kursen, um den Studierenden den Umgang mit Projekt- und Kollaborationstools zu vermitteln und automatisierte Prüfungen von Code-Abgaben zu ermöglichen.
+
+Zusätzlich habe ich Lernvideos zu Statistik und R für die Justus-Liebig-Universität Gießen sowie die FernUniversität Hagen erstellt, um die praktische Anwendung statistischer Methoden zu fördern.
+
+#### Veröffentlichungen in Lehre
+
+[@Kleer2024f]
+
+[@Kleer2020]
+
+#### Links Lehrprojekten
+
+- Web-Based-Training *Statistik für Sozialwissenschaften*: [Live-View](https://uni-giessen.de/methoden-ifp-stats101), [git-Repository](https://gitlab.ub.uni-giessen.de/methoden-politik/einstieg-in-statistik)
+
+- Web-Based-Training *Einstieg in R*: [Live-View](https://uni-giessen.de/methoden-ifp-r), [git-Repository](https://gitlab.ub.uni-giessen.de/methoden-politik/einstieg-in-r)
+
+- Web-Based-Training *Einstieg in SPSS*: [Live-View](https://uni-giessen.de/methoden-ifp-spss), [git-Repository](https://gitlab.ub.uni-giessen.de/methoden-politik/einstieg-in-spss)
+
+- Workshop *Daten bändigen & visualisieren mit R*: [git-Repository](https://gitlab.com/bpkleer/tidyverse-course)
+
+- Anwendung *CI in der Lehre mit R*: [git-Repository](https://gitlab.com/bpkleer/ci-cd-teaching)
+
+- Lernvideos rund um R (für die FU Hagen): [Vimeo](https://vimeo.com/channels/1815333)
+
+- Lernvideos zu Vorlesungen Statistik für die Sozialwissenschaften: [Vimeo](https://vimeo.com/channels/1815335)
+
+
+#### Übersicht bisheriger Kurse
+Hier finden Sie eine Übersicht an Kursen und Workshops, die ich bisher gegeben habe. Die Kurse haben immer in Titelsprache stattgefunden.
+
+{{% lehre %}} 
+
+## Forschung
+Meine Forschungsinteressen liegen in der politischen Sozialisation sowie der politischen Einstellungs- und Unterstützungsforschung. Dabei habe ich meine Fähigkeiten in der **Planung** und **Organisation von Forschungsprojekten** ausgebaut und meine Stärken in der **Teamkollaboration** verfestigt. Ich habe umfassende Kompetenzen in der **Anwendung** und **Auswertung (komplexer) quantitativer Datenanalysen** erworben, was es mir ermöglicht, komplexe Informationen in **sinnvolle Erkenntnisse** zu destillieren.
+
+Eine Übersicht meines akademischen Werdegangs finden Sie in [Orcid]( https://orcid.org/0000-0003-1935-387X).
+
+##### Ausgewählte Publikationen:
+
+[@Kleer2024a]
+
+[@Kleer2024c]
+
+[@Kleer2024d]
+
+[@Kleer2024e]
+
+[@Hunklinger2024]
+
+[@Kleer2023]
+
+[@Kleer2023a]
+
+[@Abendschoen2023]
+
+[@Abendschoen2022a]
+
+[@Kleer2021]
+
+## Sonstiges
+
+Während meiner akademischen Tätigkeiten habe ich neben **internationalen** Fachvorträgen und Fachveröffentlichungen auch öffentliche Vorträge gehalten, in denen ich Fachinhalte/-probleme einer breiteren Öffentlichkeit vorgestellt habe. Insbesondere konnte ich auf Konferenzen und Aufenthalten im Ausland meine **interpersonalen** und **kulturellen Kompetenzen** ausbauen. 
+
+#### Auslandsaufenthalte
+
+{{% visits %}}
+
+#### Konferenzen
+
+{{% conference %}}
+<h6><sup>P</sup> Paper; <sup>C</sup> Chair</h6>
+
+#### Gastvorträge
+
+{{% talks %}}

@@ -1,8 +1,9 @@
 ---
 title: "Fortbildungen"
-weight: 14
+weight: 12
 ---
 
+Als engagierter Sozialwissenschaftler erweitere ich kontinuierlich meine Fähigkeiten durch verschiedene Fortbildungsprogramme. Diese Kurse haben mir eine fundierte Basis in quantitativen Methoden und Datenanalyse sowie essentielle Lehr- und Managementfähigkeiten vermittelt. Nachfolgend finden Sie eine Liste der von mir absolvierten Fortbildungen, die mein Engagement für lebenslanges Lernen und meine Bereitschaft, neue Herausforderungen im Bereich Data Science anzunehmen, verdeutlichen.
 
 #### Methoden
 - 2024: Machine Learning with R (Oxford Spring School)
@@ -19,7 +20,7 @@ weight: 14
 - 2019: Konfliktkompetenz für den Hochschulalltag (I + II)
 - 2017: Zertifikat Kompetenz für professionelle Hochschullehre (14 Workshops & 1 Lehrprojekt), u.a. *Einführung in die kollegiale Beratung*, *Diskussionen leiten* und *Studienberatung von nicht-traditionellen Studierenden*
 
-#### Wissenschaftsmanagement-/verwaltung
+#### Projektmanagement-/verwaltung
 - 2024: Multiprojektmanagement
 - 2023: Drittmittel-Expert:innen Programm 2023
 - 2022: ABC der Antragstellung
