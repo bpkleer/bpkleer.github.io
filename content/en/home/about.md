@@ -4,6 +4,6 @@ image: "pic2.png"
 weight: 1
 ---
 
-I am a social scientist with a strong focus on quantitative analyses and methods. I am currently seeking **new challenges** in the field of Data Science in 🇪🇺 or 🇧🇷 to **apply my skills in data-driven decision-making and innovative research**.
+Sou um cientista social com grande foco em análises e métodos quantitativos. Atualmente, estou buscando **novos desafios** no campo da **Ciência de Dados** em 🇪🇺 ou 🇧🇷 para aplicar minhas habilidades analíticas e técnicas na tomada de decisões orientada por dados e em pesquisas inovadoras.
 
-Before completing my PhD at the University of Giessen, I studied at the Universities of Cologne and Vienna, where I successfully designed and implemented projects. International research stays, conferences, and working in international teams have strengthened my intercultural and team-oriented skills. I look forward to working in dynamic environments and contributing to the advancement of data-driven solutions. For more information, please see my [résumé](https://bpkleer.github.io/files/resume-kleer-en.pdf).
+Antes de concluir meu doutorado na Universidade de Giessen, estudei nas Universidades de Colônia e Viena, onde elaborei e implementei projetos com sucesso. As estadias internacionais de pesquisa, as conferências e o trabalho em equipes internacionais fortaleceram minhas habilidades interculturais e voltadas para a equipe. Estou ansioso para trabalhar em ambientes dinâmicos e contribuir para o avanço das soluções orientadas por dados. Para obter mais informações, consulte meu [currículo](https://bpkleer.github.io/files/resume-kleer-br.pdf).
