@@ -33,7 +33,7 @@ Additionally, I have created learning videos on statistics and R for Justus Lieb
 
 - Using CI/CD for teaching R: [git-Repository](https://gitlab.com/bpkleer/ci-cd-teaching)
 
-- Video tutorials in regard to R (FU Hagen): [Vimeo](https://vimeo.com/channels/1815333)
+- Video tutorials in regard to R (FU Hagen): [Vimeo](https://youtube.com/playlist?list=PL30dYVYYotm_19tT4z3bDcxlzgZzR4Gzp&si=8m2iUi5nun2w54gV)
 
 - Video tutorials in regard to lecture Statistics for the Social Sciences: [Vimeo](https://vimeo.com/channels/1815335)
 

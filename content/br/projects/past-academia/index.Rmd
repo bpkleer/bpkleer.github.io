@@ -33,7 +33,7 @@ Além disso, criei vídeos de aprendizado sobre estatística e R para a Justus-L
 
 - CI no ensino com R (inglês): [git-Repository](https://gitlab.com/bpkleer/ci-cd-teaching)
 
-- Lernvideos *Introdução em R* (alemão, FU Hagen): [Vimeo](https://vimeo.com/channels/1815333)
+- Lernvideos *Introdução em R* (alemão, FU Hagen): [Vimeo](https://youtube.com/playlist?list=PL30dYVYYotm_19tT4z3bDcxlzgZzR4Gzp&si=8m2iUi5nun2w54gV)
  
 - Vídeos da aula *Introdução à Estatística* (alemão): [Vimeo](https://vimeo.com/channels/1815335)
 

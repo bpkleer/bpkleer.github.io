@@ -33,7 +33,7 @@ Zusätzlich habe ich Lernvideos zu Statistik und R für die Justus-Liebig-Univer
 
 - Anwendung *CI in der Lehre mit R*: [git-Repository](https://gitlab.com/bpkleer/ci-cd-teaching)
 
-- Lernvideos rund um R (für die FU Hagen): [Vimeo](https://vimeo.com/channels/1815333)
+- Lernvideos rund um R (für die FU Hagen): [Vimeo](https://youtube.com/playlist?list=PL30dYVYYotm_19tT4z3bDcxlzgZzR4Gzp&si=8m2iUi5nun2w54gV)
 
 - Lernvideos zu Vorlesungen Statistik für die Sozialwissenschaften: [Vimeo](https://vimeo.com/channels/1815335)
 
