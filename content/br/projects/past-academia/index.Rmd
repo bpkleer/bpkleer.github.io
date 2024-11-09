@@ -35,7 +35,7 @@ Além disso, criei vídeos de aprendizado sobre estatística e R para a Justus-L
 
 - Lernvideos *Introdução em R* (alemão, FU Hagen): [Vimeo](https://youtube.com/playlist?list=PL30dYVYYotm_19tT4z3bDcxlzgZzR4Gzp&si=8m2iUi5nun2w54gV)
  
-- Vídeos da aula *Introdução à Estatística* (alemão): [Vimeo](https://vimeo.com/channels/1815335)
+- Vídeos da aula *Introdução à Estatística* (alemão): [Vimeo](https://www.youtube.com/playlist?list=PL30dYVYYotm9kvGnrAwp-F6mFnZhAOdlK)
 
 
 #### Cursos anteriores (seleção) 

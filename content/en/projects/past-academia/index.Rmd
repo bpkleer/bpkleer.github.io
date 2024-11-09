@@ -35,7 +35,7 @@ Additionally, I have created learning videos on statistics and R for Justus Lieb
 
 - Video tutorials in regard to R (FU Hagen): [Vimeo](https://youtube.com/playlist?list=PL30dYVYYotm_19tT4z3bDcxlzgZzR4Gzp&si=8m2iUi5nun2w54gV)
 
-- Video tutorials in regard to lecture Statistics for the Social Sciences: [Vimeo](https://vimeo.com/channels/1815335)
+- Video tutorials in regard to lecture Statistics for the Social Sciences: [Vimeo](https://www.youtube.com/playlist?list=PL30dYVYYotm9kvGnrAwp-F6mFnZhAOdlK)
 
 #### Taught courses at universities
 Here you find an overview of courses and workshops I have taught so far. Courses were taught in title language.
