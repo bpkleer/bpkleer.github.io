@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://bpkleer.de/en/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://bpkleer.de/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employments &amp; Education</title>
+      <link>https://bpkleer.de/en/projects/work-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/work-education/</guid>
+      <description>I am a social scientist specializing in quantitative data analysis and data-driven decision-making. I have a strong background in data visualization, statistical analysis, and machine learning. My expertise encompasses project proposal writing, project management, and project evaluation.
+Additionally, I possess strong interpersonal and intercultural skills that enable me to work effectively in teams and integrate diverse perspectives.
+Experiences 10/2024 - 12/2024 Data Scientist (Training), DataScientest
+- Machine Learning,
+- Big Data/Database (PySpark)</description>
+    </item>
+    
+    <item>
+      <title>Additional training</title>
+      <link>https://bpkleer.de/en/projects/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/training/</guid>
+      <description>As a dedicated social scientist, I continuously enhance my skills through various training programs. These courses have equipped me with a robust foundation in quantitative methods and data analysis, as well as essential teaching and management skills. Below is a list of professional development courses I have completed, showcasing my commitment to lifelong learning and my readiness to tackle new challenges in Data Science.
+Methods 2024: Machine Learning with R (Oxford Spring School) 2023: Comparative Social Research with Multi-Group SEM (Gesis Spring Seminar) 2021: Introduction to Structural Equation Modelling (ECPR Virtual Spring School in Methods and Techniques) 2020: Quantitative Text Analysis (ECPR Virtual Summer School in Methods and Techniques) 2019: Introduction to Bayesian Models for the Social Sciences (Gesis Spring Seminar &amp;ldquo;Bayesian Modelling in the Social Sciences) 2018: Applied Multilevel Regression Modelling (ECPR Summer School in Methods and Techniques) 2016: Introduction to Data Analysis Using R (Gesis Summer School in Survey Methodology) Didactics 2024: Intercultural Communication 2020: Examination law 2019: Conflict competence for everyday university life (I + II) 2017: Certificate of Competence in Higher Education (14 workshops &amp;amp; 1 teaching project), e.</description>
+    </item>
+    
+    <item>
+      <title>Previous teaching/research activities</title>
+      <link>https://bpkleer.de/en/projects/past-academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/en/projects/past-academia/</guid>
+      <description>Teaching In my previous academic roles in the field of quantitative methods, I have designed practical teaching in empirical social research for the BA program Social Sciences. My commitment to education is evident in the training and mentoring of students, particularly with theses, where I distill complex information into understandable insights and provide constructive feedback.
+I have developed several web-based training programs and, as project leader, have been responsible for the planning, implementation, and oversight of these teaching projects.</description>
+    </item>
+    
+  </channel>
+</rss>

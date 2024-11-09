@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre mim on Apresentação</title>
+    <link>https://bpkleer.de/br/projects/</link>
+    <description>Recent content in Sobre mim on Apresentação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>br</language><atom:link href="https://bpkleer.de/br/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atuação &amp; Formação</title>
+      <link>https://bpkleer.de/br/projects/work-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/br/projects/work-education/</guid>
+      <description>Sou cientista social com especialização em análise de dados quantitativos e decisões baseadas em dados. Tenho um conhecimento sólido em visualização de dados, análise estatística e aprendizado de máquina. Minha expertise abrange a elaboração de propostas de projetos, gerenciamento de projetos e avaliação de projetos.
+Além disso, trago habilidades interpessoais e interculturais bem desenvolvidas, que me ajudam a trabalhar efetivamente em equipe e integrar diversas perspectivas.
+Experiências profissionais 10/2024 - 12/2024 Cientista de Dados (treinamento), DataScientest</description>
+    </item>
+    
+    <item>
+      <title>Formação complementar</title>
+      <link>https://bpkleer.de/br/projects/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/br/projects/training/</guid>
+      <description>Como um cientista social dedicado, continuo aprimorando minhas habilidades por meio de vários programas de treinamento. Esses cursos me proporcionaram uma base sólida em métodos quantitativos e análise de dados, além de habilidades essenciais de ensino e gestão. Abaixo está uma lista dos cursos de desenvolvimento profissional que concluí, demonstrando meu compromisso com a aprendizagem contínua e minha disposição para enfrentar novos desafios na área de Data Science.
+Métodos 2024: Machine Learning with R (Oxford Spring School) 2023: Comparative Social Research with Multi-Group SEM (Gesis Spring Seminar) 2021: Introduction to Structural Equation Modelling (ECPR Virtual Spring School in Methods and Techniques) 2020: Quantitative Text Analysis (ECPR Virtual Summer School in Methods and Techniques) 2019: Introduction to Bayesian Models for the Social Sciences (Gesis Spring Seminar &amp;ldquo;Bayesian Modelling in the Social Sciences) 2018: Applied Multilevel Regression Modelling (ECPR Summer School in Methods and Techniques) 2016: Introduction to Data Analysis Using R (Gesis Summer School in Survey Methodology) Ensino 2024: Comunicação intercultural 2020: Lei de auditoria 2019: Competência em conflitos para a vida universitária cotidiana (I + II) 2017: Certificado de competência para ensino universitário profissional (14 Workshops &amp;amp; 1 projecto de ensino), por exemplo, Introdução ao aconselhamento entre colegas, Liderar discussões e Aconselhamento de estudo para alunos não tradicionais Gestão e administração 2024: Gerenciamento de vários projetos 2023: Desenvolvimento dos projetos de pesquisa 2022: ABC do aplicativo para financiamento de pesquisas 2020 Compreender avaliações das bolsas de pesquisa 2020: Treinamento SAP </description>
+    </item>
+    
+    <item>
+      <title>Atividades anteriores de ensino/pesquisa</title>
+      <link>https://bpkleer.de/br/projects/past-academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/br/projects/past-academia/</guid>
+      <description>Ensino Em minhas funções acadêmicas anteriores na área de métodos quantitativos, desenvolvi ensino prático em pesquisa social empírica para o curso de graduação Ciências Sociais. Meu compromisso com a educação se reflete na formação e orientação de estudantes, especialmente em trabalhos de conclusão de curso, onde eu apresento conteúdos complexos de forma compreensível e ofereço feedback construtivo.
+Desenvolvi vários treinamentos baseados na web e, como líder de projeto, fui responsável pelo planejamento, implementação e controle desses projetos de ensino.</description>
+    </item>
+    
+  </channel>
+</rss>

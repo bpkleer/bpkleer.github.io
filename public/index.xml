@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vorstellung</title>
+    <link>https://bpkleer.de/</link>
+    <description>Recent content on Vorstellung</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://bpkleer.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tätigkeiten &amp; Ausbildung</title>
+      <link>https://bpkleer.de/projects/work-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/projects/work-education/</guid>
+      <description>Ich bin Sozialwissenschaftler mit einer Spezialisierung auf quantitative Datenanalyse und datengestützte Entscheidungen. Ich verfüge über fundierte Kenntnisse in der Datenvisualisierung, statistischen Analyse und im Machine Learning. Meine Expertise erstreckt sich auf die Projektbeantragung, das Projektmanagement sowie die Begutachtung von Projekten.
+Darüber hinaus bringe ich ausgeprägte zwischenmenschliche und interkulturelle Fähigkeiten mit, die mir helfen, effektiv im Team zu arbeiten und diverse Perspektiven zu integrieren.
+Erfahrungen 10/2024 - 12/2024 Data Scientist (Training), DataScientest</description>
+    </item>
+    
+    <item>
+      <title>Fortbildungen</title>
+      <link>https://bpkleer.de/projects/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/projects/training/</guid>
+      <description>Als engagierter Sozialwissenschaftler erweitere ich kontinuierlich meine Fähigkeiten durch verschiedene Fortbildungsprogramme. Diese Kurse haben mir eine fundierte Basis in quantitativen Methoden und Datenanalyse sowie essentielle Lehr- und Managementfähigkeiten vermittelt. Nachfolgend finden Sie eine Liste der von mir absolvierten Fortbildungen, die mein Engagement für lebenslanges Lernen und meine Bereitschaft, neue Herausforderungen im Bereich Data Science anzunehmen, verdeutlichen.
+Methoden 2024: Machine Learning with R (Oxford Spring School) 2023: Comparative Social Research with Multi-Group SEM (Gesis Spring Seminar) 2021: Introduction to Structural Equation Modelling (ECPR Virtual Spring School in Methods and Techniques) 2020: Quantitative Text Analysis (ECPR Virtual Summer School in Methods and Techniques) 2019: Introduction to Bayesian Models for the Social Sciences (Gesis Spring Seminar &amp;ldquo;Bayesian Modelling in the Social Sciences) 2018: Applied Multilevel Regression Modelling (ECPR Summer School in Methods and Techniques) 2016: Introduction to Data Analysis Using R (Gesis Summer School in Survey Methodology) Didaktik 2024: Interkulturelle Kommunikation 2020: Prüfungsrecht 2019: Konfliktkompetenz für den Hochschulalltag (I + II) 2017: Zertifikat Kompetenz für professionelle Hochschullehre (14 Workshops &amp;amp; 1 Lehrprojekt), u.</description>
+    </item>
+    
+    <item>
+      <title>Frühere Lehr-/ Forschungsaktivitäten</title>
+      <link>https://bpkleer.de/projects/past-academia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpkleer.de/projects/past-academia/</guid>
+      <description>Lehre In meinen früheren akademischen Rollen im Bereich quantitativer Methoden habe ich praxisnahe Lehre in der empirischen Sozialforschung für den BA-Studiengang Social Sciences gestaltet. Mein Engagement für Bildung zeigt sich in der Schulung und Betreuung von Studierenden, insbesondere bei Abschlussarbeiten, wo ich komplexe Inhalte verständlich aufbereite, und konstruktives Feedback gebe.
+Ich habe mehrere webbasierte Trainings entwickelt und als Projektleiter die Planung, Umsetzung und Kontrolle dieser Lehrprojekte verantwortet. Dabei lag ein besonderer Fokus auf der Integration von R und Git in anwendungsorientierten Kursen, um den Studierenden den Umgang mit Projekt- und Kollaborationstools zu vermitteln und automatisierte Prüfungen von Code-Abgaben zu ermöglichen.</description>
+    </item>
+    
+  </channel>
+</rss>
